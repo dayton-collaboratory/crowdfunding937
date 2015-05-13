@@ -11,3 +11,10 @@ Driving a stake into the ground to start thinking through this project.  Possibl
 3. An interface for admins to manually curate the feed, if automated search is too dirty
 
 4. An independently-hosted instance of a FOSS crowdfunding package
+
+`scraping.ipynb` contains some preliminary tests of technique.  It's
+an IPython Notebook.  Install IPython Notebook (possibly by means of
+Anaconda Python) and run
+
+    ipython notebook scraping.ipynb
+
