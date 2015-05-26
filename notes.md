@@ -1,4 +1,31 @@
-# Feed creation
+# Architecture
+
+## Scraper
+
+- Only non-static component
+- Consumes API from Kickstarter, ...
+- Scrapes Indiegogo, ...
+- Checks crowdfunding937.json to determine which ones are new
+- Creates Jekyll blog posts (`_posts/blahblah.md`) 
+- Creates new version of crowdfunding937.json
+- pushes to github
+
+## Jekyll blog posts
+
+- Generate RSS through jekyll-rss-feeds (http://joelglovier.com/writing/rss-for-jekyll/)
+
+## Jekyll blog
+
+- Link to RSS
+- Link to crowdfunding937.json
+- Posts 
+
+## Static JSON file
+
+- in lieu of API
+- data store to check whether campaigns require new posts
+
+# Data sources
 
 ## Indiegogo
 
