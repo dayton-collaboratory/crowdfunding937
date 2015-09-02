@@ -1,1 +1,557 @@
-[{"creator": {"urls": {"api": {"user": "https://api.kickstarter.com/v1/users/1436445398?signature=1440552068.0661741da6861612c0cba1d076331473ce0548f2"}, "web": {"user": "https://www.kickstarter.com/profile/1436445398"}}, "id": 1436445398, "name": "Raysean Reese", "avatar": {"small": "https://ksr-ugc.imgix.net/avatars/15140046/10897825_10100325901439860_1296164297170390335_n.original.jpg?v=1430690368&w=80&h=80&fit=crop&auto=format&q=92&s=fae2144ca02180fd39c94935c10614cf", "medium": "https://ksr-ugc.imgix.net/avatars/15140046/10897825_10100325901439860_1296164297170390335_n.original.jpg?v=1430690368&w=160&h=160&fit=crop&auto=format&q=92&s=985788f96cb24491a6be7bd38f7800f3", "thumb": "https://ksr-ugc.imgix.net/avatars/15140046/10897825_10100325901439860_1296164297170390335_n.original.jpg?v=1430690368&w=40&h=40&fit=crop&auto=format&q=92&s=6f9ac6c2930d7294a5d1b455624216a7"}}, "created_at": 1438037048, "country": "US", "static_usd_rate": "1.0", "currency": "USD", "launched_at": 1438099885, "id": 1810014087, "spotlight": false, "slug": "bring-real-hip-hop-back", "name": "Bring Real Hip Hop Back", "currency_trailing_code": true, "location": {"is_root": false, "id": 2389876, "country": "US", "displayable_name": "Dayton, OH", "state": "OH", "slug": "dayton-oh", "type": "Town", "name": "Dayton", "urls": {"api": {"nearby_projects": "https://api.kickstarter.com/v1/discover?signature=1440538710.2806e0d3b7f454b79cd7c6e41653f5ccbf634b4b&woe_id=2389876"}, "web": {"location": "https://www.kickstarter.com/locations/dayton-oh", "discover": "https://www.kickstarter.com/discover/places/dayton-oh"}}, "short_name": "Dayton, OH"}, "state_changed_at": 1438099885, "state": "live", "usd_pledged": "0.0", "backers_count": 0, "urls": {"web": {"project": "https://www.kickstarter.com/projects/1436445398/bring-real-hip-hop-back?ref=city", "rewards": "https://www.kickstarter.com/projects/1436445398/bring-real-hip-hop-back/rewards"}}, "disable_communication": false, "pledged": 0.0, "photo": {"little": "https://ksr-ugc.imgix.net/projects/1997825/photo-original.jpg?v=1438037087&w=200&h=150&fit=crop&auto=format&q=92&s=4128e5155a7f40498f9de097d73b4aef", "1536x1152": "https://ksr-ugc.imgix.net/projects/1997825/photo-original.jpg?v=1438037087&w=1536&h=1152&fit=crop&auto=format&q=92&s=ae8d9ec23ba0f738f2f3f3d8fe45e28e", "small": "https://ksr-ugc.imgix.net/projects/1997825/photo-original.jpg?v=1438037087&w=160&h=120&fit=crop&auto=format&q=92&s=b0171e9d9bcca887c7619001134db747", "full": "https://ksr-ugc.imgix.net/projects/1997825/photo-original.jpg?v=1438037087&w=560&h=420&fit=crop&auto=format&q=92&s=c18f3cbd0e69d693d860a947b1a0199a", "ed": "https://ksr-ugc.imgix.net/projects/1997825/photo-original.jpg?v=1438037087&w=338&h=250&fit=crop&auto=format&q=92&s=19e0235e41b5299bbe8419d40cc76448", "thumb": "https://ksr-ugc.imgix.net/projects/1997825/photo-original.jpg?v=1438037087&w=40&h=30&fit=crop&auto=format&q=92&s=71667039f6be604e3321d52af9dd88a9", "1024x768": "https://ksr-ugc.imgix.net/projects/1997825/photo-original.jpg?v=1438037087&w=1024&h=768&fit=crop&auto=format&q=92&s=f6d30162a150e5bf1a545ca03cc6def3", "med": "https://ksr-ugc.imgix.net/projects/1997825/photo-original.jpg?v=1438037087&w=266&h=200&fit=crop&auto=format&q=92&s=05957f3f28568c310bfd5b42076dae8d"}, "goal": 600.0, "blurb": "I am working extremely hard to create my debut album and restore hip hop back too its glory days, using memorable content and lyrics.", "deadline": 1440691885, "category": {"id": 39, "slug": "music/hip-hop", "position": 7, "parent_id": 14, "name": "Hip-Hop", "urls": {"web": {"discover": "http://www.kickstarter.com/discover/categories/music/hip-hop"}}}, "profile": {"feature_image_attributes": {"image_urls": {"default": "https://ksr-ugc.imgix.net/projects/1997825/photo-original.jpg?v=1438037087&w=1536&h=1152&fit=crop&auto=format&q=92&s=ae8d9ec23ba0f738f2f3f3d8fe45e28e", "baseball_card": "https://ksr-ugc.imgix.net/projects/1997825/photo-original.jpg?v=1438037087&w=1536&h=1152&fit=crop&auto=format&q=92&s=ae8d9ec23ba0f738f2f3f3d8fe45e28e"}}, "state_changed_at": 1438037048, "state": "inactive", "show_feature_image": false, "text_color": null, "id": 2037399, "link_text": null, "background_color": null, "blurb": null, "should_show_feature_image": true, "background_image_opacity": 0.8, "link_background_color": null, "name": null, "link_text_color": null, "link_url": null, "project_id": 2037399}, "currency_symbol": "$"}, {"creator": {"urls": {"api": {"user": "https://api.kickstarter.com/v1/users/506671?signature=1440552068.aa44aede835a66887899c27ba2e7b1eedc634cf1"}, "web": {"user": "https://www.kickstarter.com/profile/atthisarts"}}, "id": 506671, "name": "Atthis Arts, LLC", "avatar": {"small": "https://ksr-ugc.imgix.net/avatars/6253680/Atthis_Color_RGB.original.png?v=1401397245&w=80&h=80&fit=crop&auto=format&q=92&s=5ba0e5039af5fdc8baad9508b116c1f0", "medium": "https://ksr-ugc.imgix.net/avatars/6253680/Atthis_Color_RGB.original.png?v=1401397245&w=160&h=160&fit=crop&auto=format&q=92&s=8652a4d5b58bcad46b00d5d6fbac14a8", "thumb": "https://ksr-ugc.imgix.net/avatars/6253680/Atthis_Color_RGB.original.png?v=1401397245&w=40&h=40&fit=crop&auto=format&q=92&s=6b589c1592b92bd5aff7c151e7a01fe8"}, "slug": "atthisarts"}, "created_at": 1366052389, "country": "US", "static_usd_rate": "1.0", "currency": "USD", "launched_at": 1402663727, "id": 881342187, "spotlight": true, "slug": "the-banished-craft-a-fantasy-tale-of-dragons-and-w", "name": "The Banished Craft: A Fantasy Tale of Dragons and Wizards", "currency_trailing_code": true, "location": {"is_root": false, "id": 2389876, "country": "US", "displayable_name": "Dayton, OH", "state": "OH", "slug": "dayton-oh", "type": "Town", "name": "Dayton", "urls": {"api": {"nearby_projects": "https://api.kickstarter.com/v1/discover?signature=1440538710.2806e0d3b7f454b79cd7c6e41653f5ccbf634b4b&woe_id=2389876"}, "web": {"location": "https://www.kickstarter.com/locations/dayton-oh", "discover": "https://www.kickstarter.com/discover/places/dayton-oh"}}, "short_name": "Dayton, OH"}, "state_changed_at": 1407816012, "state": "successful", "usd_pledged": "4485.0", "backers_count": 143, "urls": {"web": {"project": "https://www.kickstarter.com/projects/atthisarts/the-banished-craft-a-fantasy-tale-of-dragons-and-w?ref=city", "rewards": "https://www.kickstarter.com/projects/atthisarts/the-banished-craft-a-fantasy-tale-of-dragons-and-w/rewards"}}, "disable_communication": false, "pledged": 4485.0, "photo": {"little": "https://ksr-ugc.imgix.net/projects/524783/photo-original.jpg?v=1402256203&w=200&h=150&fit=crop&auto=format&q=92&s=04571236a2ebff764f784e631dafc614", "1536x1152": "https://ksr-ugc.imgix.net/projects/524783/photo-original.jpg?v=1402256203&w=1536&h=1152&fit=crop&auto=format&q=92&s=1c720730dfaaea2e5b7f8ede68f0776d", "small": "https://ksr-ugc.imgix.net/projects/524783/photo-original.jpg?v=1402256203&w=160&h=120&fit=crop&auto=format&q=92&s=84d483a72199eb373e66cf7adb51317f", "full": "https://ksr-ugc.imgix.net/projects/524783/photo-original.jpg?v=1402256203&w=560&h=420&fit=crop&auto=format&q=92&s=1d1f48e235bc781e8d1a131d4d2479e8", "ed": "https://ksr-ugc.imgix.net/projects/524783/photo-original.jpg?v=1402256203&w=338&h=250&fit=crop&auto=format&q=92&s=83d0280a00077638e49fee95f4d08d7d", "thumb": "https://ksr-ugc.imgix.net/projects/524783/photo-original.jpg?v=1402256203&w=40&h=30&fit=crop&auto=format&q=92&s=c453e2c5bbc9a30faf3221d2b10de1a2", "1024x768": "https://ksr-ugc.imgix.net/projects/524783/photo-original.jpg?v=1402256203&w=1024&h=768&fit=crop&auto=format&q=92&s=f9748422ef6ec8323d3e280db28da5c1", "med": "https://ksr-ugc.imgix.net/projects/524783/photo-original.jpg?v=1402256203&w=266&h=200&fit=crop&auto=format&q=92&s=fdfc2fa234d6fa34817b544cc1f774a5"}, "goal": 3000.0, "blurb": "Fantasy author E.D.E. Bell begins the saga of a split world, dragons, and lost magic in a new fantasy trilogy.", "deadline": 1407816000, "category": {"id": 47, "slug": "publishing/fiction", "position": 6, "parent_id": 18, "name": "Fiction", "urls": {"web": {"discover": "http://www.kickstarter.com/discover/categories/publishing/fiction"}}}, "profile": {"feature_image_attributes": {"id": 3729059, "image_urls": {"default": "https://ksr-ugc.imgix.net/assets/003/729/059/fc778bee17145a6a5c5ba19553e4412e_original.jpg?v=1430761967&w=700&fit=max&auto=format&q=92&s=523b42315a60bcc68982933aa2f6a240", "baseball_card": "https://ksr-ugc.imgix.net/assets/003/729/059/fc778bee17145a6a5c5ba19553e4412e_original.jpg?v=1430761967&w=700&fit=max&auto=format&q=92&s=523b42315a60bcc68982933aa2f6a240"}}, "state_changed_at": 1430761986, "state": "active", "show_feature_image": true, "text_color": "", "id": 536890, "link_text": "Follow along!", "background_color": "", "blurb": "Fantasy author E.D.E. Bell begins the saga of a split world, dragons, and lost magic in a new fantasy trilogy.", "should_show_feature_image": true, "background_image_opacity": 0.8, "link_background_color": "", "name": "The Banished Craft: A Fantasy Tale of Dragons and Wizards", "link_text_color": "", "link_url": "", "project_id": 536890}, "currency_symbol": "$"}, {"creator": {"urls": {"api": {"user": "https://api.kickstarter.com/v1/users/937759598?signature=1440552068.e64909fc51bd8efd0eee19e747388846bad4311a"}, "web": {"user": "https://www.kickstarter.com/profile/937759598"}}, "id": 937759598, "name": "Steve Russell", "avatar": {"small": "https://ksr-ugc.imgix.net/avatars/1260133/PA03267123_edited-1.original.jpg?v=1314890729&w=80&h=80&fit=crop&auto=format&q=92&s=82782d37910b179e14054c1f5e2e8ddf", "medium": "https://ksr-ugc.imgix.net/avatars/1260133/PA03267123_edited-1.original.jpg?v=1314890729&w=160&h=160&fit=crop&auto=format&q=92&s=ea1c44fd9d0a58ca826fa0e07d7fb039", "thumb": "https://ksr-ugc.imgix.net/avatars/1260133/PA03267123_edited-1.original.jpg?v=1314890729&w=40&h=40&fit=crop&auto=format&q=92&s=2b2eca2268403e59fbeddc7c90a1b8b1"}}, "created_at": 1363556652, "country": "US", "static_usd_rate": "1.0", "currency": "USD", "launched_at": 1364933702, "id": 1577453986, "spotlight": true, "slug": "lords-of-gossamer-and-shadow-diceless-role-playing", "name": "Lords of Gossamer and Shadow: Diceless Role-Playing", "currency_trailing_code": true, "location": {"is_root": false, "id": 2389876, "country": "US", "displayable_name": "Dayton, OH", "state": "OH", "slug": "dayton-oh", "type": "Town", "name": "Dayton", "urls": {"api": {"nearby_projects": "https://api.kickstarter.com/v1/discover?signature=1440538710.2806e0d3b7f454b79cd7c6e41653f5ccbf634b4b&woe_id=2389876"}, "web": {"location": "https://www.kickstarter.com/locations/dayton-oh", "discover": "https://www.kickstarter.com/discover/places/dayton-oh"}}, "short_name": "Dayton, OH"}, "state_changed_at": 1368651637, "state": "successful", "usd_pledged": "30090.5", "backers_count": 772, "urls": {"web": {"project": "https://www.kickstarter.com/projects/937759598/lords-of-gossamer-and-shadow-diceless-role-playing?ref=city", "rewards": "https://www.kickstarter.com/projects/937759598/lords-of-gossamer-and-shadow-diceless-role-playing/rewards"}}, "disable_communication": false, "pledged": 30090.5, "photo": {"little": "https://ksr-ugc.imgix.net/projects/493227/photo-original.jpg?v=1397813887&w=200&h=150&fit=crop&auto=format&q=92&s=f41777c0f792e48dce742026da491b43", "1536x1152": "https://ksr-ugc.imgix.net/projects/493227/photo-original.jpg?v=1397813887&w=1536&h=1152&fit=crop&auto=format&q=92&s=8e4674760b411e16d6c3eebf22850976", "small": "https://ksr-ugc.imgix.net/projects/493227/photo-original.jpg?v=1397813887&w=160&h=120&fit=crop&auto=format&q=92&s=1d73c5b2f4d3df80b9cd1b0d65b0a683", "full": "https://ksr-ugc.imgix.net/projects/493227/photo-original.jpg?v=1397813887&w=560&h=420&fit=crop&auto=format&q=92&s=7e23bbc4f83cf50a7abc15f272a5c337", "ed": "https://ksr-ugc.imgix.net/projects/493227/photo-original.jpg?v=1397813887&w=338&h=250&fit=crop&auto=format&q=92&s=6468663420af57668f0ac1c1740291a5", "thumb": "https://ksr-ugc.imgix.net/projects/493227/photo-original.jpg?v=1397813887&w=40&h=30&fit=crop&auto=format&q=92&s=5d9856a7c89144ca859637feab2694d7", "1024x768": "https://ksr-ugc.imgix.net/projects/493227/photo-original.jpg?v=1397813887&w=1024&h=768&fit=crop&auto=format&q=92&s=3086335cb68a8ee63178611c04bfc97b", "med": "https://ksr-ugc.imgix.net/projects/493227/photo-original.jpg?v=1397813887&w=266&h=200&fit=crop&auto=format&q=92&s=73ee7224644be885c72decab5ab348e9"}, "goal": 1000.0, "blurb": "Lords of Gossamer & Shadow is a stand alone game using Erick Wujcik's diceless rules system which powered Amber Diceless Role-Playing.", "deadline": 1368651600, "category": {"id": 34, "slug": "games/tabletop games", "position": 6, "parent_id": 12, "name": "Tabletop Games", "urls": {"web": {"discover": "http://www.kickstarter.com/discover/categories/games/tabletop%20games"}}}, "profile": {"feature_image_attributes": {"image_urls": {"default": "https://ksr-ugc.imgix.net/projects/493227/photo-original.jpg?v=1397813887&w=1536&h=1152&fit=crop&auto=format&q=92&s=8e4674760b411e16d6c3eebf22850976", "baseball_card": "https://ksr-ugc.imgix.net/projects/493227/photo-original.jpg?v=1397813887&w=1536&h=1152&fit=crop&auto=format&q=92&s=8e4674760b411e16d6c3eebf22850976"}}, "state_changed_at": 1425915827, "state": "inactive", "show_feature_image": false, "text_color": null, "id": 504622, "link_text": null, "background_color": null, "blurb": null, "should_show_feature_image": true, "background_image_opacity": 0.8, "link_background_color": null, "name": null, "link_text_color": null, "link_url": null, "project_id": 504622}, "currency_symbol": "$"}, {"creator": {"urls": {"api": {"user": "https://api.kickstarter.com/v1/users/41684793?signature=1440552068.d5cb260f32b788a03380c1c5da73c029d6879478"}, "web": {"user": "https://www.kickstarter.com/profile/solidjim"}}, "id": 41684793, "name": "Jim Tramontana", "avatar": {"small": "https://ksr-ugc.imgix.net/avatars/4601277/jimplaying.original.jpg?v=1385124511&w=80&h=80&fit=crop&auto=format&q=92&s=76280231f5f277e1282b6ea45f3539b7", "medium": "https://ksr-ugc.imgix.net/avatars/4601277/jimplaying.original.jpg?v=1385124511&w=160&h=160&fit=crop&auto=format&q=92&s=a92f22c3cace7a9abd69e6dae261f682", "thumb": "https://ksr-ugc.imgix.net/avatars/4601277/jimplaying.original.jpg?v=1385124511&w=40&h=40&fit=crop&auto=format&q=92&s=8a2bc9c0b1b8da7be1101753ac85a324"}, "slug": "solidjim"}, "created_at": 1389887692, "country": "US", "static_usd_rate": "1.0", "currency": "USD", "launched_at": 1391259636, "id": 1767964118, "spotlight": true, "slug": "red-hot-rebellion-ii-comic-book-and-concept-album", "name": "Red Hot Rebellion II Comic Book & Concept Album", "currency_trailing_code": true, "location": {"is_root": false, "id": 2389876, "country": "US", "displayable_name": "Dayton, OH", "state": "OH", "slug": "dayton-oh", "type": "Town", "name": "Dayton", "urls": {"api": {"nearby_projects": "https://api.kickstarter.com/v1/discover?signature=1440538710.2806e0d3b7f454b79cd7c6e41653f5ccbf634b4b&woe_id=2389876"}, "web": {"location": "https://www.kickstarter.com/locations/dayton-oh", "discover": "https://www.kickstarter.com/discover/places/dayton-oh"}}, "short_name": "Dayton, OH"}, "state_changed_at": 1393649942, "state": "successful", "usd_pledged": "7033.75", "backers_count": 103, "urls": {"web": {"project": "https://www.kickstarter.com/projects/solidjim/red-hot-rebellion-ii-comic-book-and-concept-album?ref=city", "rewards": "https://www.kickstarter.com/projects/solidjim/red-hot-rebellion-ii-comic-book-and-concept-album/rewards"}}, "disable_communication": false, "pledged": 7033.75, "photo": {"little": "https://ksr-ugc.imgix.net/projects/832678/photo-original.png?v=1397864066&w=200&h=150&fit=crop&auto=format&q=92&s=bc61ede0795850b8bfa3fc0d91f164bb", "1536x1152": "https://ksr-ugc.imgix.net/projects/832678/photo-original.png?v=1397864066&w=1536&h=1152&fit=crop&auto=format&q=92&s=33d00fa6165253d6ffad5f7b34c7d11d", "small": "https://ksr-ugc.imgix.net/projects/832678/photo-original.png?v=1397864066&w=160&h=120&fit=crop&auto=format&q=92&s=ded77530c08ecdfd664034a5596d7a49", "full": "https://ksr-ugc.imgix.net/projects/832678/photo-original.png?v=1397864066&w=560&h=420&fit=crop&auto=format&q=92&s=6ebbc350dbb51d30ae47e2620f2632f1", "ed": "https://ksr-ugc.imgix.net/projects/832678/photo-original.png?v=1397864066&w=338&h=250&fit=crop&auto=format&q=92&s=180ce325ebf69ddc618b4d008cca7441", "thumb": "https://ksr-ugc.imgix.net/projects/832678/photo-original.png?v=1397864066&w=40&h=30&fit=crop&auto=format&q=92&s=ef06e40feb933eaaf91518bc74702b6e", "1024x768": "https://ksr-ugc.imgix.net/projects/832678/photo-original.png?v=1397864066&w=1024&h=768&fit=crop&auto=format&q=92&s=d4d219ff38ea592282e97e6c8f538570", "med": "https://ksr-ugc.imgix.net/projects/832678/photo-original.png?v=1397864066&w=266&h=200&fit=crop&auto=format&q=92&s=d3f8c765ae9c3e5f860f103dc9a98862"}, "goal": 7000.0, "blurb": "A full-length comic book AND concept album about a band of intergalactic heroes out to save Earth with the power of rock 'n' roll.", "deadline": 1393649940, "category": {"id": 3, "name": "Comics", "urls": {"web": {"discover": "http://www.kickstarter.com/discover/categories/comics"}}, "slug": "comics", "position": 2}, "profile": {"feature_image_attributes": {"image_urls": {"default": "https://ksr-ugc.imgix.net/projects/832678/photo-original.png?v=1397864066&w=1536&h=1152&fit=crop&auto=format&q=92&s=33d00fa6165253d6ffad5f7b34c7d11d", "baseball_card": "https://ksr-ugc.imgix.net/projects/832678/photo-original.png?v=1397864066&w=1536&h=1152&fit=crop&auto=format&q=92&s=33d00fa6165253d6ffad5f7b34c7d11d"}}, "state_changed_at": 1427914517, "state": "active", "show_feature_image": false, "text_color": "", "id": 851871, "link_text": "Buy Now!", "background_color": "", "blurb": "A 60-page comic book AND 13-song concept album about a band of intergalactic heroes out to save Earth with the power of rock 'n' roll.", "should_show_feature_image": true, "background_image_opacity": 0.8, "link_background_color": "", "name": "\"The Mission\", a 60-page comic book & 13-song album.", "link_text_color": "", "link_url": "http://themission.redhotrebellion.com", "project_id": 851871}, "currency_symbol": "$"}, {"creator": {"urls": {"api": {"user": "https://api.kickstarter.com/v1/users/1856520275?signature=1440552068.eeb4001d722d50fe786e35d38d6885b6227a912f"}, "web": {"user": "https://www.kickstarter.com/profile/noahfaust"}}, "id": 1856520275, "name": "Noah Faust", "avatar": {"small": "https://ksr-ugc.imgix.net/avatars/3058610/306939_10151786950450621_1245297666_n.original.jpg?v=1339810038&w=80&h=80&fit=crop&auto=format&q=92&s=52ac43bc88c559ec7a752aa4de1fb4bf", "medium": "https://ksr-ugc.imgix.net/avatars/3058610/306939_10151786950450621_1245297666_n.original.jpg?v=1339810038&w=160&h=160&fit=crop&auto=format&q=92&s=3f055837b55953a1d04d61294aaf93f0", "thumb": "https://ksr-ugc.imgix.net/avatars/3058610/306939_10151786950450621_1245297666_n.original.jpg?v=1339810038&w=40&h=40&fit=crop&auto=format&q=92&s=720f546ea68483f59f96476b47b840f9"}, "slug": "noahfaust"}, "created_at": 1339552065, "country": "US", "static_usd_rate": "1.0", "currency": "USD", "launched_at": 1339783412, "id": 671403993, "spotlight": true, "slug": "conjoynts-a-creative-wooden-building-toy", "name": "Conjoynts - A Creative Wooden Building Toy", "currency_trailing_code": true, "location": {"is_root": false, "id": 2389876, "country": "US", "displayable_name": "Dayton, OH", "state": "OH", "slug": "dayton-oh", "type": "Town", "name": "Dayton", "urls": {"api": {"nearby_projects": "https://api.kickstarter.com/v1/discover?signature=1440538710.2806e0d3b7f454b79cd7c6e41653f5ccbf634b4b&woe_id=2389876"}, "web": {"location": "https://www.kickstarter.com/locations/dayton-oh", "discover": "https://www.kickstarter.com/discover/places/dayton-oh"}}, "short_name": "Dayton, OH"}, "state_changed_at": 1341597812, "state": "successful", "usd_pledged": "5673.0", "backers_count": 166, "urls": {"web": {"project": "https://www.kickstarter.com/projects/noahfaust/conjoynts-a-creative-wooden-building-toy?ref=city", "rewards": "https://www.kickstarter.com/projects/noahfaust/conjoynts-a-creative-wooden-building-toy/rewards"}}, "disable_communication": false, "pledged": 5673.0, "photo": {"little": "https://ksr-ugc.imgix.net/projects/219319/photo-original.JPG?v=1397786091&w=200&h=150&fit=crop&auto=format&q=92&s=f6730fe3373d9643756b1567356245a1", "1536x1152": "https://ksr-ugc.imgix.net/projects/219319/photo-original.JPG?v=1397786091&w=1536&h=1152&fit=crop&auto=format&q=92&s=6efff849369681f3bce002bfb529a490", "small": "https://ksr-ugc.imgix.net/projects/219319/photo-original.JPG?v=1397786091&w=160&h=120&fit=crop&auto=format&q=92&s=38665681674ddd41e7534f77353361d6", "full": "https://ksr-ugc.imgix.net/projects/219319/photo-original.JPG?v=1397786091&w=560&h=420&fit=crop&auto=format&q=92&s=dc3b88480c57e84fa460889c0108fdf4", "ed": "https://ksr-ugc.imgix.net/projects/219319/photo-original.JPG?v=1397786091&w=338&h=250&fit=crop&auto=format&q=92&s=d2d8e7e5b27502147b374c426bc02774", "thumb": "https://ksr-ugc.imgix.net/projects/219319/photo-original.JPG?v=1397786091&w=40&h=30&fit=crop&auto=format&q=92&s=dc5488116650bff7eefa03df0c8abfaf", "1024x768": "https://ksr-ugc.imgix.net/projects/219319/photo-original.JPG?v=1397786091&w=1024&h=768&fit=crop&auto=format&q=92&s=cad8cc8a40e333d9f44631887675b6b6", "med": "https://ksr-ugc.imgix.net/projects/219319/photo-original.JPG?v=1397786091&w=266&h=200&fit=crop&auto=format&q=92&s=32b1559c57301165d5d2094c30c78ab5"}, "goal": 4000.0, "blurb": "Interlocking 2D shapes that can be assembled to create 3D objects. Build anything you can imagine!", "deadline": 1341597812, "category": {"id": 28, "slug": "design/product design", "position": 5, "parent_id": 7, "name": "Product Design", "urls": {"web": {"discover": "http://www.kickstarter.com/discover/categories/design/product%20design"}}}, "profile": {"feature_image_attributes": {"image_urls": {"default": "https://ksr-ugc.imgix.net/projects/219319/photo-original.JPG?v=1397786091&w=1536&h=1152&fit=crop&auto=format&q=92&s=6efff849369681f3bce002bfb529a490", "baseball_card": "https://ksr-ugc.imgix.net/projects/219319/photo-original.JPG?v=1397786091&w=1536&h=1152&fit=crop&auto=format&q=92&s=6efff849369681f3bce002bfb529a490"}}, "state_changed_at": 1425915812, "state": "inactive", "show_feature_image": false, "text_color": null, "id": 224412, "link_text": null, "background_color": null, "blurb": null, "should_show_feature_image": true, "background_image_opacity": 0.8, "link_background_color": null, "name": null, "link_text_color": null, "link_url": null, "project_id": 224412}, "currency_symbol": "$"}, {"creator": {"urls": {"api": {"user": "https://api.kickstarter.com/v1/users/1812182323?signature=1440552068.52131ac6fe23557629ad762972eab045de026271"}, "web": {"user": "https://www.kickstarter.com/profile/mattcohen"}}, "id": 1812182323, "name": "Matt Cohen", "avatar": {"small": "https://ksr-ugc.imgix.net/avatars/2749644/fb_profile_picture.original.jpg?v=1336576115&w=80&h=80&fit=crop&auto=format&q=92&s=87a0058f589f22f5b450563f06f85f98", "medium": "https://ksr-ugc.imgix.net/avatars/2749644/fb_profile_picture.original.jpg?v=1336576115&w=160&h=160&fit=crop&auto=format&q=92&s=44efa9e86f31978730a6ce31fda4cf37", "thumb": "https://ksr-ugc.imgix.net/avatars/2749644/fb_profile_picture.original.jpg?v=1336576115&w=40&h=40&fit=crop&auto=format&q=92&s=78e6318a75b801262fee9b0e587a6055"}, "slug": "mattcohen"}, "created_at": 1365521166, "country": "US", "static_usd_rate": "1.0", "currency": "USD", "launched_at": 1365691124, "id": 785167417, "spotlight": true, "slug": "paranormal-the-town", "name": "Paranormal: The Town", "currency_trailing_code": true, "location": {"is_root": false, "id": 2389876, "country": "US", "displayable_name": "Dayton, OH", "state": "OH", "slug": "dayton-oh", "type": "Town", "name": "Dayton", "urls": {"api": {"nearby_projects": "https://api.kickstarter.com/v1/discover?signature=1440538710.2806e0d3b7f454b79cd7c6e41653f5ccbf634b4b&woe_id=2389876"}, "web": {"location": "https://www.kickstarter.com/locations/dayton-oh", "discover": "https://www.kickstarter.com/discover/places/dayton-oh"}}, "short_name": "Dayton, OH"}, "state_changed_at": 1370875124, "state": "successful", "usd_pledged": "6968.0", "backers_count": 307, "urls": {"web": {"project": "https://www.kickstarter.com/projects/mattcohen/paranormal-the-town?ref=city", "rewards": "https://www.kickstarter.com/projects/mattcohen/paranormal-the-town/rewards"}}, "disable_communication": false, "pledged": 6968.0, "photo": {"little": "https://ksr-ugc.imgix.net/projects/518292/photo-original.png?v=1397816476&w=200&h=150&fit=crop&auto=format&q=92&s=c291272eda1019da4adf0b439b5b3875", "1536x1152": "https://ksr-ugc.imgix.net/projects/518292/photo-original.png?v=1397816476&w=1536&h=1152&fit=crop&auto=format&q=92&s=a5bc95e663895adb3cad7082f48e5c98", "small": "https://ksr-ugc.imgix.net/projects/518292/photo-original.png?v=1397816476&w=160&h=120&fit=crop&auto=format&q=92&s=1af47147a3203f5c144a3eb7143612b9", "full": "https://ksr-ugc.imgix.net/projects/518292/photo-original.png?v=1397816476&w=560&h=420&fit=crop&auto=format&q=92&s=a6ec8c6fc1e3b7ed329ba15240a9ffc5", "ed": "https://ksr-ugc.imgix.net/projects/518292/photo-original.png?v=1397816476&w=338&h=250&fit=crop&auto=format&q=92&s=8315b3372ff197154c478c47d4c1aa1e", "thumb": "https://ksr-ugc.imgix.net/projects/518292/photo-original.png?v=1397816476&w=40&h=30&fit=crop&auto=format&q=92&s=6a1536d97c3ec75dedc406e5b7058132", "1024x768": "https://ksr-ugc.imgix.net/projects/518292/photo-original.png?v=1397816476&w=1024&h=768&fit=crop&auto=format&q=92&s=22e7816307cc8f22451cab0ff12c9f10", "med": "https://ksr-ugc.imgix.net/projects/518292/photo-original.png?v=1397816476&w=266&h=200&fit=crop&auto=format&q=92&s=9be610f71b339ca15ddc9dda6eefa1c8"}, "goal": 3000.0, "blurb": "Experience the horror of a haunted town that's never the same twice. Found-footage horror gaming taken to the next level.", "deadline": 1370875124, "category": {"id": 35, "slug": "games/video games", "position": 7, "parent_id": 12, "name": "Video Games", "urls": {"web": {"discover": "http://www.kickstarter.com/discover/categories/games/video%20games"}}}, "profile": {"feature_image_attributes": {"image_urls": {"default": "https://ksr-ugc.imgix.net/projects/518292/photo-original.png?v=1397816476&w=1536&h=1152&fit=crop&auto=format&q=92&s=a5bc95e663895adb3cad7082f48e5c98", "baseball_card": "https://ksr-ugc.imgix.net/projects/518292/photo-original.png?v=1397816476&w=1536&h=1152&fit=crop&auto=format&q=92&s=a5bc95e663895adb3cad7082f48e5c98"}}, "state_changed_at": 1425915829, "state": "inactive", "show_feature_image": false, "text_color": null, "id": 530262, "link_text": null, "background_color": null, "blurb": null, "should_show_feature_image": true, "background_image_opacity": 0.8, "link_background_color": null, "name": null, "link_text_color": null, "link_url": null, "project_id": 530262}, "currency_symbol": "$"}, {"creator": {"urls": {"api": {"user": "https://api.kickstarter.com/v1/users/211970756?signature=1440552068.2e5a30f747ad3bd100ff9e66744fe98572c689e8"}, "web": {"user": "https://www.kickstarter.com/profile/211970756"}}, "id": 211970756, "name": "Koltreg", "avatar": {"small": "https://ksr-ugc.imgix.net/avatars/77564/luke.original.png?v=1359390613&w=80&h=80&fit=crop&auto=format&q=92&s=f28d87731ab4d1b308295412a3585f13", "medium": "https://ksr-ugc.imgix.net/avatars/77564/luke.original.png?v=1359390613&w=160&h=160&fit=crop&auto=format&q=92&s=a8d29b7d55c862371d04e0010d3a8215", "thumb": "https://ksr-ugc.imgix.net/avatars/77564/luke.original.png?v=1359390613&w=40&h=40&fit=crop&auto=format&q=92&s=3553b92b4ac8e40901926fb5ee78d34b"}}, "created_at": 1346998011, "country": "US", "static_usd_rate": "1.0", "currency": "USD", "launched_at": 1347943500, "id": 1740397346, "spotlight": true, "slug": "eras-parrish-mini-comic", "name": "ERAS: Parrish Mini Comic", "currency_trailing_code": true, "location": {"is_root": false, "id": 2389876, "country": "US", "displayable_name": "Dayton, OH", "state": "OH", "slug": "dayton-oh", "type": "Town", "name": "Dayton", "urls": {"api": {"nearby_projects": "https://api.kickstarter.com/v1/discover?signature=1440538710.2806e0d3b7f454b79cd7c6e41653f5ccbf634b4b&woe_id=2389876"}, "web": {"location": "https://www.kickstarter.com/locations/dayton-oh", "discover": "https://www.kickstarter.com/discover/places/dayton-oh"}}, "short_name": "Dayton, OH"}, "state_changed_at": 1349671529, "state": "successful", "usd_pledged": "379.0", "backers_count": 48, "urls": {"web": {"project": "https://www.kickstarter.com/projects/211970756/eras-parrish-mini-comic?ref=city", "rewards": "https://www.kickstarter.com/projects/211970756/eras-parrish-mini-comic/rewards"}}, "disable_communication": false, "pledged": 379.0, "photo": {"little": "https://ksr-ugc.imgix.net/projects/324756/photo-original.jpg?v=1397796344&w=200&h=150&fit=crop&auto=format&q=92&s=6d62cb6b2f3537c428477f5c2fcbf0d5", "1536x1152": "https://ksr-ugc.imgix.net/projects/324756/photo-original.jpg?v=1397796344&w=1536&h=1152&fit=crop&auto=format&q=92&s=37557a0df844b22006ac8e598aa58478", "small": "https://ksr-ugc.imgix.net/projects/324756/photo-original.jpg?v=1397796344&w=160&h=120&fit=crop&auto=format&q=92&s=8b7549b4d188d26477857bc8d511652c", "full": "https://ksr-ugc.imgix.net/projects/324756/photo-original.jpg?v=1397796344&w=560&h=420&fit=crop&auto=format&q=92&s=b3b4fc3131e076b4623588908e6d6a1c", "ed": "https://ksr-ugc.imgix.net/projects/324756/photo-original.jpg?v=1397796344&w=338&h=250&fit=crop&auto=format&q=92&s=e64b5762fff9c2d38ea1dc5ff924d984", "thumb": "https://ksr-ugc.imgix.net/projects/324756/photo-original.jpg?v=1397796344&w=40&h=30&fit=crop&auto=format&q=92&s=cc9359ab1d7b3a7c9d2431e3dc4fffab", "1024x768": "https://ksr-ugc.imgix.net/projects/324756/photo-original.jpg?v=1397796344&w=1024&h=768&fit=crop&auto=format&q=92&s=f0c2b850940eee4f1037caf72eba905c", "med": "https://ksr-ugc.imgix.net/projects/324756/photo-original.jpg?v=1397796344&w=266&h=200&fit=crop&auto=format&q=92&s=dc98e9cdf125d559730e795bf74c9e6f"}, "goal": 100.0, "blurb": "Raising money to print ERAS: Parrish, a mini comic, and to prepare for our next larger comic.", "deadline": 1349671500, "category": {"id": 3, "name": "Comics", "urls": {"web": {"discover": "http://www.kickstarter.com/discover/categories/comics"}}, "slug": "comics", "position": 2}, "profile": {"feature_image_attributes": {"image_urls": {"default": "https://ksr-ugc.imgix.net/projects/324756/photo-original.jpg?v=1397796344&w=1536&h=1152&fit=crop&auto=format&q=92&s=37557a0df844b22006ac8e598aa58478", "baseball_card": "https://ksr-ugc.imgix.net/projects/324756/photo-original.jpg?v=1397796344&w=1536&h=1152&fit=crop&auto=format&q=92&s=37557a0df844b22006ac8e598aa58478"}}, "state_changed_at": 1425915818, "state": "inactive", "show_feature_image": false, "text_color": null, "id": 332264, "link_text": null, "background_color": null, "blurb": null, "should_show_feature_image": true, "background_image_opacity": 0.8, "link_background_color": null, "name": null, "link_text_color": null, "link_url": null, "project_id": 332264}, "currency_symbol": "$"}, {"creator": {"urls": {"api": {"user": "https://api.kickstarter.com/v1/users/1661945159?signature=1440552068.6425f784180dc4bf2e37b3ca7259128460f1b00a"}, "web": {"user": "https://www.kickstarter.com/profile/1661945159"}}, "id": 1661945159, "name": "Alexandra 'Kate' Rivers", "avatar": {"small": "https://ksr-ugc.imgix.net/avatars/14582541/20140223_172627_1_(2).original.jpg?v=1429873398&w=80&h=80&fit=crop&auto=format&q=92&s=3e14b82a86a7442f811eb3868276081d", "medium": "https://ksr-ugc.imgix.net/avatars/14582541/20140223_172627_1_(2).original.jpg?v=1429873398&w=160&h=160&fit=crop&auto=format&q=92&s=4fc3285d6477ec6898bd29151e22b3a2", "thumb": "https://ksr-ugc.imgix.net/avatars/14582541/20140223_172627_1_(2).original.jpg?v=1429873398&w=40&h=40&fit=crop&auto=format&q=92&s=f931e8f349ac2ec62d51a9f5b29c0be5"}}, "created_at": 1426798848, "country": "US", "static_usd_rate": "1.0", "currency": "USD", "launched_at": 1430396959, "id": 1745647424, "spotlight": true, "slug": "twist-cupcakery", "name": "Twist Cupcakery", "currency_trailing_code": true, "location": {"is_root": false, "id": 2389876, "country": "US", "displayable_name": "Dayton, OH", "state": "OH", "slug": "dayton-oh", "type": "Town", "name": "Dayton", "urls": {"api": {"nearby_projects": "https://api.kickstarter.com/v1/discover?signature=1440538710.2806e0d3b7f454b79cd7c6e41653f5ccbf634b4b&woe_id=2389876"}, "web": {"location": "https://www.kickstarter.com/locations/dayton-oh", "discover": "https://www.kickstarter.com/discover/places/dayton-oh"}}, "short_name": "Dayton, OH"}, "state_changed_at": 1433161813, "state": "successful", "usd_pledged": "6590.0", "backers_count": 84, "urls": {"web": {"project": "https://www.kickstarter.com/projects/1661945159/twist-cupcakery?ref=city", "rewards": "https://www.kickstarter.com/projects/1661945159/twist-cupcakery/rewards"}}, "disable_communication": false, "pledged": 6590.0, "photo": {"little": "https://ksr-ugc.imgix.net/projects/1740438/photo-original.jpg?v=1429843254&w=200&h=150&fit=crop&auto=format&q=92&s=764ad6bb4e786cf79d3bf13873a81cb1", "1536x1152": "https://ksr-ugc.imgix.net/projects/1740438/photo-original.jpg?v=1429843254&w=1536&h=1152&fit=crop&auto=format&q=92&s=ccfaba38c7497042cf07b5668427a81b", "small": "https://ksr-ugc.imgix.net/projects/1740438/photo-original.jpg?v=1429843254&w=160&h=120&fit=crop&auto=format&q=92&s=5c2e757c7b881556b2d659725379b680", "full": "https://ksr-ugc.imgix.net/projects/1740438/photo-original.jpg?v=1429843254&w=560&h=420&fit=crop&auto=format&q=92&s=2fdb31db6d5f2035adf14feba3015bab", "ed": "https://ksr-ugc.imgix.net/projects/1740438/photo-original.jpg?v=1429843254&w=338&h=250&fit=crop&auto=format&q=92&s=4737a87f2bb0ca156b5eb3eb49db30f6", "thumb": "https://ksr-ugc.imgix.net/projects/1740438/photo-original.jpg?v=1429843254&w=40&h=30&fit=crop&auto=format&q=92&s=e10b6ba0759508078abb002ef368f96f", "1024x768": "https://ksr-ugc.imgix.net/projects/1740438/photo-original.jpg?v=1429843254&w=1024&h=768&fit=crop&auto=format&q=92&s=9ec95a45f276515e45f8659795b95c5e", "med": "https://ksr-ugc.imgix.net/projects/1740438/photo-original.jpg?v=1429843254&w=266&h=200&fit=crop&auto=format&q=92&s=81e4c76180ea7c00ecb91ff14c3ee0c5"}, "goal": 6000.0, "blurb": "Twist Cupcakery needs your help launching our gourmet Cupcakery in Downtown Dayton", "deadline": 1433161759, "category": {"id": 312, "slug": "food/restaurants", "position": 9, "parent_id": 10, "name": "Restaurants", "urls": {"web": {"discover": "http://www.kickstarter.com/discover/categories/food/restaurants"}}}, "profile": {"feature_image_attributes": {"image_urls": {"default": "https://ksr-ugc.imgix.net/projects/1740438/photo-original.jpg?v=1429843254&w=1536&h=1152&fit=crop&auto=format&q=92&s=ccfaba38c7497042cf07b5668427a81b", "baseball_card": "https://ksr-ugc.imgix.net/projects/1740438/photo-original.jpg?v=1429843254&w=1536&h=1152&fit=crop&auto=format&q=92&s=ccfaba38c7497042cf07b5668427a81b"}}, "state_changed_at": 1426798848, "state": "inactive", "show_feature_image": false, "text_color": null, "id": 1780012, "link_text": null, "background_color": null, "blurb": null, "should_show_feature_image": true, "background_image_opacity": 0.8, "link_background_color": null, "name": null, "link_text_color": null, "link_url": null, "project_id": 1780012}, "currency_symbol": "$"}, {"creator": {"urls": {"api": {"user": "https://api.kickstarter.com/v1/users/1482231418?signature=1440552068.4799feec27accafe4c3ad06aa92d3436dab2ca12"}, "web": {"user": "https://www.kickstarter.com/profile/stevensaus"}}, "id": 1482231418, "name": "Steven Saus", "avatar": {"small": "https://ksr-ugc.imgix.net/avatars/2720113/white_bg_pen.original.png?v=1401483638&w=80&h=80&fit=crop&auto=format&q=92&s=08aa6184fd1384b49a03a4804fc68865", "medium": "https://ksr-ugc.imgix.net/avatars/2720113/white_bg_pen.original.png?v=1401483638&w=160&h=160&fit=crop&auto=format&q=92&s=748246fca0bed83555e14e700dd82ddb", "thumb": "https://ksr-ugc.imgix.net/avatars/2720113/white_bg_pen.original.png?v=1401483638&w=40&h=40&fit=crop&auto=format&q=92&s=508da7a4d551295fc023af4e33569662"}, "slug": "stevensaus"}, "created_at": 1405555836, "country": "US", "static_usd_rate": "1.0", "currency": "USD", "launched_at": 1412545494, "id": 1016006227, "spotlight": true, "slug": "not-our-kind-tales-of-not-belonging-new-fiction-st", "name": "Not Our Kind: Tales of (Not) Belonging - New Fiction Stories", "currency_trailing_code": true, "location": {"is_root": false, "id": 2389876, "country": "US", "displayable_name": "Dayton, OH", "state": "OH", "slug": "dayton-oh", "type": "Town", "name": "Dayton", "urls": {"api": {"nearby_projects": "https://api.kickstarter.com/v1/discover?signature=1440538710.2806e0d3b7f454b79cd7c6e41653f5ccbf634b4b&woe_id=2389876"}, "web": {"location": "https://www.kickstarter.com/locations/dayton-oh", "discover": "https://www.kickstarter.com/discover/places/dayton-oh"}}, "short_name": "Dayton, OH"}, "state_changed_at": 1415588411, "state": "successful", "usd_pledged": "7437.5", "backers_count": 289, "urls": {"web": {"project": "https://www.kickstarter.com/projects/stevensaus/not-our-kind-tales-of-not-belonging-new-fiction-st?ref=city", "rewards": "https://www.kickstarter.com/projects/stevensaus/not-our-kind-tales-of-not-belonging-new-fiction-st/rewards"}}, "disable_communication": false, "pledged": 7437.5, "photo": {"little": "https://ksr-ugc.imgix.net/projects/1166997/photo-original.png?v=1412728535&w=200&h=150&fit=crop&auto=format&q=92&s=110f6e4410f44aeb9aa79be3d25209b8", "1536x1152": "https://ksr-ugc.imgix.net/projects/1166997/photo-original.png?v=1412728535&w=1536&h=1152&fit=crop&auto=format&q=92&s=698243ad18bab9f6115bc4314fb61135", "small": "https://ksr-ugc.imgix.net/projects/1166997/photo-original.png?v=1412728535&w=160&h=120&fit=crop&auto=format&q=92&s=74ae608516b5f471547267e39f6b8f8d", "full": "https://ksr-ugc.imgix.net/projects/1166997/photo-original.png?v=1412728535&w=560&h=420&fit=crop&auto=format&q=92&s=8540017405e7036e3948b45cbae136a1", "ed": "https://ksr-ugc.imgix.net/projects/1166997/photo-original.png?v=1412728535&w=338&h=250&fit=crop&auto=format&q=92&s=b1d18f0ab5128237817f431c6e2359a3", "thumb": "https://ksr-ugc.imgix.net/projects/1166997/photo-original.png?v=1412728535&w=40&h=30&fit=crop&auto=format&q=92&s=7632c98a68e38f8880c831e021586e5a", "1024x768": "https://ksr-ugc.imgix.net/projects/1166997/photo-original.png?v=1412728535&w=1024&h=768&fit=crop&auto=format&q=92&s=67d1c988fb0e037105b4feb78ef2bc5d", "med": "https://ksr-ugc.imgix.net/projects/1166997/photo-original.png?v=1412728535&w=266&h=200&fit=crop&auto=format&q=92&s=9227cbb53069f0d5cd033eb8c66d53b7"}, "goal": 7000.0, "blurb": "A genre-defying diverse collection of  fantasy and sci-fi stories of cultures, their problems, and seeing life from a new point of view", "deadline": 1415588400, "category": {"id": 324, "slug": "publishing/anthologies", "position": 2, "parent_id": 18, "name": "Anthologies", "urls": {"web": {"discover": "http://www.kickstarter.com/discover/categories/publishing/anthologies"}}}, "profile": {"feature_image_attributes": {"image_urls": {"default": "https://ksr-ugc.imgix.net/projects/1166997/photo-original.png?v=1412728535&w=1536&h=1152&fit=crop&auto=format&q=92&s=698243ad18bab9f6115bc4314fb61135", "baseball_card": "https://ksr-ugc.imgix.net/projects/1166997/photo-original.png?v=1412728535&w=1536&h=1152&fit=crop&auto=format&q=92&s=698243ad18bab9f6115bc4314fb61135"}}, "state_changed_at": 1427156855, "state": "active", "show_feature_image": false, "text_color": "", "id": 1193873, "link_text": "Follow along!", "background_color": "", "blurb": "A genre-defying diverse collection of  fantasy and sci-fi stories of cultures, their problems, and seeing life from a new point of view", "should_show_feature_image": true, "background_image_opacity": 0.8, "link_background_color": "", "name": "Not Our Kind: Tales of (Not) Belonging - New Fiction Stories", "link_text_color": "", "link_url": "https://www.kickstarter.com/projects/stevensaus/not-our-kind-tales-of-not-belonging-new-fiction-st", "project_id": 1193873}, "currency_symbol": "$"}, {"creator": {"urls": {"api": {"user": "https://api.kickstarter.com/v1/users/1302666510?signature=1440552068.7e4fba14643049cb7cc3fbdb7df830b6f5c6d209"}, "web": {"user": "https://www.kickstarter.com/profile/1302666510"}}, "id": 1302666510, "name": "David Grandouiller", "avatar": {"small": "https://ksr-ugc.imgix.net/avatars/11609410/IMG_3648-2.original.jpg?v=1420177058&w=80&h=80&fit=crop&auto=format&q=92&s=78c7744bdfd2558a92b270d5c7a9877c", "medium": "https://ksr-ugc.imgix.net/avatars/11609410/IMG_3648-2.original.jpg?v=1420177058&w=160&h=160&fit=crop&auto=format&q=92&s=59e9dcb71b7511dd4893951bece6dd61", "thumb": "https://ksr-ugc.imgix.net/avatars/11609410/IMG_3648-2.original.jpg?v=1420177058&w=40&h=40&fit=crop&auto=format&q=92&s=da64afb2af5547a9dc9dc4c0f0ac37c7"}}, "created_at": 1434508259, "country": "US", "static_usd_rate": "1.0", "currency": "USD", "launched_at": 1434648817, "id": 514375259, "spotlight": true, "slug": "chasing-phantoms-six-songs-in-six-weeks", "name": "Chasing Phantoms: Six Songs in Six Weeks", "currency_trailing_code": true, "location": {"is_root": false, "id": 2389876, "country": "US", "displayable_name": "Dayton, OH", "state": "OH", "slug": "dayton-oh", "type": "Town", "name": "Dayton", "urls": {"api": {"nearby_projects": "https://api.kickstarter.com/v1/discover?signature=1440538710.2806e0d3b7f454b79cd7c6e41653f5ccbf634b4b&woe_id=2389876"}, "web": {"location": "https://www.kickstarter.com/locations/dayton-oh", "discover": "https://www.kickstarter.com/discover/places/dayton-oh"}}, "short_name": "Dayton, OH"}, "state_changed_at": 1438277617, "state": "successful", "usd_pledged": "157.0", "backers_count": 11, "urls": {"web": {"project": "https://www.kickstarter.com/projects/1302666510/chasing-phantoms-six-songs-in-six-weeks?ref=city", "rewards": "https://www.kickstarter.com/projects/1302666510/chasing-phantoms-six-songs-in-six-weeks/rewards"}}, "disable_communication": false, "pledged": 157.0, "photo": {"little": "https://ksr-ugc.imgix.net/projects/1923823/photo-original.jpg?v=1434508357&w=200&h=150&fit=crop&auto=format&q=92&s=5cd7fff16611e2428c0df4ef694e8b79", "1536x1152": "https://ksr-ugc.imgix.net/projects/1923823/photo-original.jpg?v=1434508357&w=1536&h=1152&fit=crop&auto=format&q=92&s=38803f3d6a8679a0402657264ba4d9f6", "small": "https://ksr-ugc.imgix.net/projects/1923823/photo-original.jpg?v=1434508357&w=160&h=120&fit=crop&auto=format&q=92&s=43b34892deb868e4f5f8342da6d5de12", "full": "https://ksr-ugc.imgix.net/projects/1923823/photo-original.jpg?v=1434508357&w=560&h=420&fit=crop&auto=format&q=92&s=855e02c0f5bbfae0abfee0b1bdf140e1", "ed": "https://ksr-ugc.imgix.net/projects/1923823/photo-original.jpg?v=1434508357&w=338&h=250&fit=crop&auto=format&q=92&s=bd7d2ec52ff050df0ee38c461da175db", "thumb": "https://ksr-ugc.imgix.net/projects/1923823/photo-original.jpg?v=1434508357&w=40&h=30&fit=crop&auto=format&q=92&s=2e8243a0d0ea35b2f4314ae308450343", "1024x768": "https://ksr-ugc.imgix.net/projects/1923823/photo-original.jpg?v=1434508357&w=1024&h=768&fit=crop&auto=format&q=92&s=387f246f98d8974274cfb125856adacf", "med": "https://ksr-ugc.imgix.net/projects/1923823/photo-original.jpg?v=1434508357&w=266&h=200&fit=crop&auto=format&q=92&s=a3b3ea37c724c7c7ff12e3dbe08a82a9"}, "goal": 100.0, "blurb": "In order to maintain my creative productivity this summer, I'll be recording a new original song each week for six weeks.", "deadline": 1438277617, "category": {"id": 14, "name": "Music", "urls": {"web": {"discover": "http://www.kickstarter.com/discover/categories/music"}}, "slug": "music", "position": 11}, "profile": {"feature_image_attributes": {"image_urls": {"default": "https://ksr-ugc.imgix.net/projects/1923823/photo-original.jpg?v=1434508357&w=1536&h=1152&fit=crop&auto=format&q=92&s=38803f3d6a8679a0402657264ba4d9f6", "baseball_card": "https://ksr-ugc.imgix.net/projects/1923823/photo-original.jpg?v=1434508357&w=1536&h=1152&fit=crop&auto=format&q=92&s=38803f3d6a8679a0402657264ba4d9f6"}}, "should_show_feature_image": true, "state": "active", "show_feature_image": false, "text_color": "", "background_image_attributes": {"id": 4234773, "image_urls": {"default": "https://ksr-ugc.imgix.net/assets/004/234/773/61a86c72aec8c4d9303de9a8159e445d_original.jpg?v=1438280773&w=1600&fit=max&auto=format&q=92&s=b35edcb93d9ad95d18508cb3f82fdb91", "baseball_card": "https://ksr-ugc.imgix.net/assets/004/234/773/61a86c72aec8c4d9303de9a8159e445d_original.jpg?v=1438280773&w=460&fit=max&auto=format&q=92&s=a4c4a01c3ab18301320755560f33dcb9"}}, "state_changed_at": 1438281029, "link_text": "Follow along!", "background_color": "", "blurb": "In order to maintain my creative productivity this summer, I'll be recording a new original song each week for six weeks.", "id": 1963397, "background_image_opacity": 0.8, "link_background_color": "", "name": "Chasing Phantoms: Six Songs in Six Weeks", "link_text_color": "", "link_url": "", "project_id": 1963397}, "currency_symbol": "$"}, {"creator": {"urls": {"api": {"user": "https://api.kickstarter.com/v1/users/439061343?signature=1440552068.fb131e99bcf82c423088e7f14ece658e78c3edab"}, "web": {"user": "https://www.kickstarter.com/profile/439061343"}}, "id": 439061343, "name": "Larry Warren", "avatar": {"small": "https://ksr-ugc.imgix.net/avatars/12666929/181601_1563883777638_4074293_n.original.jpg?v=1428174308&w=80&h=80&fit=crop&auto=format&q=92&s=9953330713799a73470cdea1dc420af4", "medium": "https://ksr-ugc.imgix.net/avatars/12666929/181601_1563883777638_4074293_n.original.jpg?v=1428174308&w=160&h=160&fit=crop&auto=format&q=92&s=4b1202ebce67d0df52d161bc00abdda2", "thumb": "https://ksr-ugc.imgix.net/avatars/12666929/181601_1563883777638_4074293_n.original.jpg?v=1428174308&w=40&h=40&fit=crop&auto=format&q=92&s=f2bf6d7f01fdd0ffbb9bb2a62c1f2f44"}}, "created_at": 1431756697, "country": "US", "static_usd_rate": "1.0", "currency": "USD", "launched_at": 1431800150, "id": 675186431, "spotlight": true, "slug": "cooper-the-first-collection-0", "name": "Cooper: The First Collection", "currency_trailing_code": true, "location": {"is_root": false, "id": 2389876, "country": "US", "displayable_name": "Dayton, OH", "state": "OH", "slug": "dayton-oh", "type": "Town", "name": "Dayton", "urls": {"api": {"nearby_projects": "https://api.kickstarter.com/v1/discover?signature=1440538710.2806e0d3b7f454b79cd7c6e41653f5ccbf634b4b&woe_id=2389876"}, "web": {"location": "https://www.kickstarter.com/locations/dayton-oh", "discover": "https://www.kickstarter.com/discover/places/dayton-oh"}}, "short_name": "Dayton, OH"}, "state_changed_at": 1434392152, "state": "successful", "usd_pledged": "3470.0", "backers_count": 44, "urls": {"web": {"project": "https://www.kickstarter.com/projects/439061343/cooper-the-first-collection-0?ref=city", "rewards": "https://www.kickstarter.com/projects/439061343/cooper-the-first-collection-0/rewards"}}, "disable_communication": false, "pledged": 3470.0, "photo": {"little": "https://ksr-ugc.imgix.net/projects/1863266/photo-original.jpg?v=1431756943&w=200&h=150&fit=crop&auto=format&q=92&s=b8265a32770d8dc5bc417a7572643f4a", "1536x1152": "https://ksr-ugc.imgix.net/projects/1863266/photo-original.jpg?v=1431756943&w=1536&h=1152&fit=crop&auto=format&q=92&s=1f3937851963453668946c004f54deb4", "small": "https://ksr-ugc.imgix.net/projects/1863266/photo-original.jpg?v=1431756943&w=160&h=120&fit=crop&auto=format&q=92&s=f3548211d096968fa2135414198d17a3", "full": "https://ksr-ugc.imgix.net/projects/1863266/photo-original.jpg?v=1431756943&w=560&h=420&fit=crop&auto=format&q=92&s=075017c183123e69c8c53816528c9836", "ed": "https://ksr-ugc.imgix.net/projects/1863266/photo-original.jpg?v=1431756943&w=338&h=250&fit=crop&auto=format&q=92&s=9428d23f888ef17459d1bca0212476cb", "thumb": "https://ksr-ugc.imgix.net/projects/1863266/photo-original.jpg?v=1431756943&w=40&h=30&fit=crop&auto=format&q=92&s=04662676279041196d5d8ba5ffdaecc9", "1024x768": "https://ksr-ugc.imgix.net/projects/1863266/photo-original.jpg?v=1431756943&w=1024&h=768&fit=crop&auto=format&q=92&s=18c4e1f5fa2d05235a170f944d7fced0", "med": "https://ksr-ugc.imgix.net/projects/1863266/photo-original.jpg?v=1431756943&w=266&h=200&fit=crop&auto=format&q=92&s=03f9cb09c0c82d5d7f792aeb296db8c2"}, "goal": 3200.0, "blurb": "The first compilation book of the comic strip Cooper.", "deadline": 1434392150, "category": {"id": 253, "slug": "comics/webcomics", "position": 5, "parent_id": 3, "name": "Webcomics", "urls": {"web": {"discover": "http://www.kickstarter.com/discover/categories/comics/webcomics"}}}, "profile": {"feature_image_attributes": {"image_urls": {"default": "https://ksr-ugc.imgix.net/projects/1863266/photo-original.jpg?v=1431756943&w=1536&h=1152&fit=crop&auto=format&q=92&s=1f3937851963453668946c004f54deb4", "baseball_card": "https://ksr-ugc.imgix.net/projects/1863266/photo-original.jpg?v=1431756943&w=1536&h=1152&fit=crop&auto=format&q=92&s=1f3937851963453668946c004f54deb4"}}, "state_changed_at": 1434457710, "state": "active", "show_feature_image": false, "text_color": "", "id": 1902840, "link_text": "Follow along!", "background_color": "a4fcab", "blurb": "The first compilation book of the comic strip Cooper.", "should_show_feature_image": true, "background_image_opacity": 0.8, "link_background_color": "", "name": "Cooper: The First Collection", "link_text_color": "", "link_url": "", "project_id": 1902840}, "currency_symbol": "$"}, {"creator": {"urls": {"api": {"user": "https://api.kickstarter.com/v1/users/1482231418?signature=1440552068.4799feec27accafe4c3ad06aa92d3436dab2ca12"}, "web": {"user": "https://www.kickstarter.com/profile/stevensaus"}}, "id": 1482231418, "name": "Steven Saus", "avatar": {"small": "https://ksr-ugc.imgix.net/avatars/2720113/white_bg_pen.original.png?v=1401483638&w=80&h=80&fit=crop&auto=format&q=92&s=08aa6184fd1384b49a03a4804fc68865", "medium": "https://ksr-ugc.imgix.net/avatars/2720113/white_bg_pen.original.png?v=1401483638&w=160&h=160&fit=crop&auto=format&q=92&s=748246fca0bed83555e14e700dd82ddb", "thumb": "https://ksr-ugc.imgix.net/avatars/2720113/white_bg_pen.original.png?v=1401483638&w=40&h=40&fit=crop&auto=format&q=92&s=508da7a4d551295fc023af4e33569662"}, "slug": "stevensaus"}, "created_at": 1389453620, "country": "US", "static_usd_rate": "1.0", "currency": "USD", "launched_at": 1390533930, "id": 1933550218, "spotlight": true, "slug": "streets-of-shadows-a-noir-urban-fantasy-fiction-an", "name": "Streets of Shadows - A Noir Urban Fantasy Fiction Anthology", "currency_trailing_code": true, "location": {"is_root": false, "id": 2389876, "country": "US", "displayable_name": "Dayton, OH", "state": "OH", "slug": "dayton-oh", "type": "Town", "name": "Dayton", "urls": {"api": {"nearby_projects": "https://api.kickstarter.com/v1/discover?signature=1440538710.2806e0d3b7f454b79cd7c6e41653f5ccbf634b4b&woe_id=2389876"}, "web": {"location": "https://www.kickstarter.com/locations/dayton-oh", "discover": "https://www.kickstarter.com/discover/places/dayton-oh"}}, "short_name": "Dayton, OH"}, "state_changed_at": 1393293615, "state": "successful", "usd_pledged": "9324.0", "backers_count": 330, "urls": {"web": {"project": "https://www.kickstarter.com/projects/stevensaus/streets-of-shadows-a-noir-urban-fantasy-fiction-an?ref=city", "rewards": "https://www.kickstarter.com/projects/stevensaus/streets-of-shadows-a-noir-urban-fantasy-fiction-an/rewards"}}, "disable_communication": false, "pledged": 9324.0, "photo": {"little": "https://ksr-ugc.imgix.net/projects/826014/photo-original.jpg?v=1397863354&w=200&h=150&fit=crop&auto=format&q=92&s=478eb57687bb969c80ecedf1e9d8ee4a", "1536x1152": "https://ksr-ugc.imgix.net/projects/826014/photo-original.jpg?v=1397863354&w=1536&h=1152&fit=crop&auto=format&q=92&s=0ffd7c97689bf6a9c2c09d7aeb0eea99", "small": "https://ksr-ugc.imgix.net/projects/826014/photo-original.jpg?v=1397863354&w=160&h=120&fit=crop&auto=format&q=92&s=46436aa4ca1d8a6c799ee480b6fcd1c7", "full": "https://ksr-ugc.imgix.net/projects/826014/photo-original.jpg?v=1397863354&w=560&h=420&fit=crop&auto=format&q=92&s=29c0f74ed1bd4686b28783e3999445d3", "ed": "https://ksr-ugc.imgix.net/projects/826014/photo-original.jpg?v=1397863354&w=338&h=250&fit=crop&auto=format&q=92&s=700c8973037b9a7e5c95dc7273064dd5", "thumb": "https://ksr-ugc.imgix.net/projects/826014/photo-original.jpg?v=1397863354&w=40&h=30&fit=crop&auto=format&q=92&s=be2f681fa443c6128aa1580f000dafb3", "1024x768": "https://ksr-ugc.imgix.net/projects/826014/photo-original.jpg?v=1397863354&w=1024&h=768&fit=crop&auto=format&q=92&s=4f1c1a76e35d08c55c44911f409517bd", "med": "https://ksr-ugc.imgix.net/projects/826014/photo-original.jpg?v=1397863354&w=266&h=200&fit=crop&auto=format&q=92&s=1eaa6debb9c6c6cb414c78d05c21ae31"}, "goal": 8000.0, "blurb": "A new fiction anthology combining the genres of noir crime and urban fantasy, edited by the team behind the DARK FAITH anthologies.", "deadline": 1393293600, "category": {"id": 47, "slug": "publishing/fiction", "position": 6, "parent_id": 18, "name": "Fiction", "urls": {"web": {"discover": "http://www.kickstarter.com/discover/categories/publishing/fiction"}}}, "profile": {"feature_image_attributes": {"image_urls": {"default": "https://ksr-ugc.imgix.net/projects/826014/photo-original.jpg?v=1397863354&w=1536&h=1152&fit=crop&auto=format&q=92&s=0ffd7c97689bf6a9c2c09d7aeb0eea99", "baseball_card": "https://ksr-ugc.imgix.net/projects/826014/photo-original.jpg?v=1397863354&w=1536&h=1152&fit=crop&auto=format&q=92&s=0ffd7c97689bf6a9c2c09d7aeb0eea99"}}, "state_changed_at": 1427156865, "state": "active", "show_feature_image": false, "text_color": "", "id": 845070, "link_text": "Follow along!", "background_color": "", "blurb": "A new fiction anthology combining the genres of noir crime and urban fantasy, edited by the team behind the DARK FAITH anthologies.", "should_show_feature_image": true, "background_image_opacity": 0.8, "link_background_color": "", "name": "Streets of Shadows - A Noir Urban Fantasy Fiction Anthology", "link_text_color": "", "link_url": "https://www.kickstarter.com/projects/stevensaus/streets-of-shadows-a-noir-urban-fantasy-fiction-an", "project_id": 845070}, "currency_symbol": "$"}, {"creator": {"urls": {"api": {"user": "https://api.kickstarter.com/v1/users/118894249?signature=1440552068.a9c2714951b60021747fae7441520b0e1e9399b3"}, "web": {"user": "https://www.kickstarter.com/profile/noxgear"}}, "id": 118894249, "name": "noxgear", "avatar": {"small": "https://ksr-ugc.imgix.net/avatars/5214946/kickstarter_profile_logo.original.jpg?v=1362433205&w=80&h=80&fit=crop&auto=format&q=92&s=b327ecdf33369528d2c63090ecbd176f", "medium": "https://ksr-ugc.imgix.net/avatars/5214946/kickstarter_profile_logo.original.jpg?v=1362433205&w=160&h=160&fit=crop&auto=format&q=92&s=ea75b8d959334cae0466c63e1f0586fc", "thumb": "https://ksr-ugc.imgix.net/avatars/5214946/kickstarter_profile_logo.original.jpg?v=1362433205&w=40&h=40&fit=crop&auto=format&q=92&s=2223f68828c81b93854b4abd09ba60a9"}, "slug": "noxgear"}, "created_at": 1369236323, "country": "US", "static_usd_rate": "1.0", "currency": "USD", "launched_at": 1413905052, "id": 966071206, "spotlight": true, "slug": "spot360-illuminated-reflective-and-fluorescent-dog", "name": "Spot360 | Illuminated, Reflective, & Fluorescent Dog Vest", "currency_trailing_code": true, "location": {"is_root": false, "id": 2389876, "country": "US", "displayable_name": "Dayton, OH", "state": "OH", "slug": "dayton-oh", "type": "Town", "name": "Dayton", "urls": {"api": {"nearby_projects": "https://api.kickstarter.com/v1/discover?signature=1440538710.2806e0d3b7f454b79cd7c6e41653f5ccbf634b4b&woe_id=2389876"}, "web": {"location": "https://www.kickstarter.com/locations/dayton-oh", "discover": "https://www.kickstarter.com/discover/places/dayton-oh"}}, "short_name": "Dayton, OH"}, "state_changed_at": 1417496340, "state": "successful", "usd_pledged": "16145.0", "backers_count": 286, "urls": {"web": {"project": "https://www.kickstarter.com/projects/noxgear/spot360-illuminated-reflective-and-fluorescent-dog?ref=city", "rewards": "https://www.kickstarter.com/projects/noxgear/spot360-illuminated-reflective-and-fluorescent-dog/rewards"}}, "disable_communication": false, "pledged": 16145.0, "photo": {"little": "https://ksr-ugc.imgix.net/projects/565535/photo-original.jpg?v=1417495621&w=200&h=150&fit=crop&auto=format&q=92&s=3b7c9f76bc4a21f87c7801b9e1a9151e", "1536x1152": "https://ksr-ugc.imgix.net/projects/565535/photo-original.jpg?v=1417495621&w=1536&h=1152&fit=crop&auto=format&q=92&s=1668c179efbab7f1ddcb5ae293efd1e6", "small": "https://ksr-ugc.imgix.net/projects/565535/photo-original.jpg?v=1417495621&w=160&h=120&fit=crop&auto=format&q=92&s=a8e6f072fa3770fffe41aca2ddb7e10c", "full": "https://ksr-ugc.imgix.net/projects/565535/photo-original.jpg?v=1417495621&w=560&h=420&fit=crop&auto=format&q=92&s=0f9c2505519058a1c9563ceae4e02351", "ed": "https://ksr-ugc.imgix.net/projects/565535/photo-original.jpg?v=1417495621&w=338&h=250&fit=crop&auto=format&q=92&s=2344eb65b75a249fcf26cd7e2a194039", "thumb": "https://ksr-ugc.imgix.net/projects/565535/photo-original.jpg?v=1417495621&w=40&h=30&fit=crop&auto=format&q=92&s=aeeedb402a090badd559b9cd105bbb86", "1024x768": "https://ksr-ugc.imgix.net/projects/565535/photo-original.jpg?v=1417495621&w=1024&h=768&fit=crop&auto=format&q=92&s=8a97f7568aece3a2ace46afc81bccca5", "med": "https://ksr-ugc.imgix.net/projects/565535/photo-original.jpg?v=1417495621&w=266&h=200&fit=crop&auto=format&q=92&s=69466c79c9dedf0796ac2afbd334210f"}, "goal": 15500.0, "blurb": "Stylish and Based on Visual Science with 360\u00b0 of Multicolor, Eye-Catching Illumination.  Another Great Innovation by Noxgear.", "deadline": 1417496340, "category": {"id": 28, "slug": "design/product design", "position": 5, "parent_id": 7, "name": "Product Design", "urls": {"web": {"discover": "http://www.kickstarter.com/discover/categories/design/product%20design"}}}, "profile": {"feature_image_attributes": {"image_urls": {"default": "https://ksr-ugc.imgix.net/projects/565535/photo-original.jpg?v=1417495621&w=1536&h=1152&fit=crop&auto=format&q=92&s=1668c179efbab7f1ddcb5ae293efd1e6", "baseball_card": "https://ksr-ugc.imgix.net/projects/565535/photo-original.jpg?v=1417495621&w=1536&h=1152&fit=crop&auto=format&q=92&s=1668c179efbab7f1ddcb5ae293efd1e6"}}, "state_changed_at": 1425915831, "state": "inactive", "show_feature_image": false, "text_color": null, "id": 578587, "link_text": null, "background_color": null, "blurb": null, "should_show_feature_image": true, "background_image_opacity": 0.8, "link_background_color": null, "name": null, "link_text_color": null, "link_url": null, "project_id": 578587}, "currency_symbol": "$"}, {"creator": {"urls": {"api": {"user": "https://api.kickstarter.com/v1/users/2001812993?signature=1440552068.0dffb8f938c74fabd56ef13dcd0b3d8fe3212a83"}, "web": {"user": "https://www.kickstarter.com/profile/2001812993"}}, "id": 2001812993, "name": "Eric Risher", "avatar": {"small": "https://ksr-ugc.imgix.net/avatars/12126894/Screen_shot_2015-04-12_at_11.20.36_PM.original.png?v=1428895661&w=80&h=80&fit=crop&auto=format&q=92&s=6a8bbc9b892a9c44663fb81f46e1106e", "medium": "https://ksr-ugc.imgix.net/avatars/12126894/Screen_shot_2015-04-12_at_11.20.36_PM.original.png?v=1428895661&w=160&h=160&fit=crop&auto=format&q=92&s=7473a786fc738fedd5fcf74041a64ff1", "thumb": "https://ksr-ugc.imgix.net/avatars/12126894/Screen_shot_2015-04-12_at_11.20.36_PM.original.png?v=1428895661&w=40&h=40&fit=crop&auto=format&q=92&s=12c850ae0633c7747fa56509ae46433c"}}, "created_at": 1409330964, "country": "US", "static_usd_rate": "1.0", "currency": "USD", "launched_at": 1428964389, "id": 345054219, "spotlight": true, "slug": "furries-a-documentary-about-the-furry-fandom", "name": "Furries: A Documentary about the Furry Fandom", "currency_trailing_code": true, "location": {"is_root": false, "id": 2389876, "country": "US", "displayable_name": "Dayton, OH", "state": "OH", "slug": "dayton-oh", "type": "Town", "name": "Dayton", "urls": {"api": {"nearby_projects": "https://api.kickstarter.com/v1/discover?signature=1440538710.2806e0d3b7f454b79cd7c6e41653f5ccbf634b4b&woe_id=2389876"}, "web": {"location": "https://www.kickstarter.com/locations/dayton-oh", "discover": "https://www.kickstarter.com/discover/places/dayton-oh"}}, "short_name": "Dayton, OH"}, "state_changed_at": 1431921543, "state": "successful", "usd_pledged": "5363.0", "backers_count": 101, "urls": {"web": {"project": "https://www.kickstarter.com/projects/2001812993/furries-a-documentary-about-the-furry-fandom?ref=city", "rewards": "https://www.kickstarter.com/projects/2001812993/furries-a-documentary-about-the-furry-fandom/rewards"}}, "disable_communication": false, "pledged": 5363.0, "photo": {"little": "https://ksr-ugc.imgix.net/projects/1295944/photo-original.png?v=1427760961&w=200&h=150&fit=crop&auto=format&q=92&s=960360fd9ddc10ba90fe96f4dd785e38", "1536x1152": "https://ksr-ugc.imgix.net/projects/1295944/photo-original.png?v=1427760961&w=1536&h=1152&fit=crop&auto=format&q=92&s=89a10e2b384d79a69626a2f96b66067a", "small": "https://ksr-ugc.imgix.net/projects/1295944/photo-original.png?v=1427760961&w=160&h=120&fit=crop&auto=format&q=92&s=60c0cafc8a31c68bbbaead2003d67228", "full": "https://ksr-ugc.imgix.net/projects/1295944/photo-original.png?v=1427760961&w=560&h=420&fit=crop&auto=format&q=92&s=042499f19884490e5356aa7a560e0bde", "ed": "https://ksr-ugc.imgix.net/projects/1295944/photo-original.png?v=1427760961&w=338&h=250&fit=crop&auto=format&q=92&s=172ce8486cbc1905d5ac488172e944cb", "thumb": "https://ksr-ugc.imgix.net/projects/1295944/photo-original.png?v=1427760961&w=40&h=30&fit=crop&auto=format&q=92&s=ca84ed0c58d9381966d7193e7bbbc178", "1024x768": "https://ksr-ugc.imgix.net/projects/1295944/photo-original.png?v=1427760961&w=1024&h=768&fit=crop&auto=format&q=92&s=c4a9405e135d260ec9849f066041b558", "med": "https://ksr-ugc.imgix.net/projects/1295944/photo-original.png?v=1427760961&w=266&h=200&fit=crop&auto=format&q=92&s=6392d66310eac4dd4a0cd9510166ce9e"}, "goal": 2500.0, "blurb": "A documentary exploring identity, creativity, and community\u2014the human part of being 'furry'.", "deadline": 1431921540, "category": {"id": 30, "slug": "film & video/documentary", "position": 4, "parent_id": 11, "name": "Documentary", "urls": {"web": {"discover": "http://www.kickstarter.com/discover/categories/film%20&%20video/documentary"}}}, "profile": {"feature_image_attributes": {"image_urls": {"default": "https://ksr-ugc.imgix.net/projects/1295944/photo-original.png?v=1427760961&w=1536&h=1152&fit=crop&auto=format&q=92&s=89a10e2b384d79a69626a2f96b66067a", "baseball_card": "https://ksr-ugc.imgix.net/projects/1295944/photo-original.png?v=1427760961&w=1536&h=1152&fit=crop&auto=format&q=92&s=89a10e2b384d79a69626a2f96b66067a"}}, "state_changed_at": 1425915873, "state": "inactive", "show_feature_image": false, "text_color": null, "id": 1325787, "link_text": null, "background_color": null, "blurb": null, "should_show_feature_image": true, "background_image_opacity": 0.8, "link_background_color": null, "name": null, "link_text_color": null, "link_url": null, "project_id": 1325787}, "currency_symbol": "$"}, {"creator": {"urls": {"api": {"user": "https://api.kickstarter.com/v1/users/937759598?signature=1440552068.e64909fc51bd8efd0eee19e747388846bad4311a"}, "web": {"user": "https://www.kickstarter.com/profile/937759598"}}, "id": 937759598, "name": "Steve Russell", "avatar": {"small": "https://ksr-ugc.imgix.net/avatars/1260133/PA03267123_edited-1.original.jpg?v=1314890729&w=80&h=80&fit=crop&auto=format&q=92&s=82782d37910b179e14054c1f5e2e8ddf", "medium": "https://ksr-ugc.imgix.net/avatars/1260133/PA03267123_edited-1.original.jpg?v=1314890729&w=160&h=160&fit=crop&auto=format&q=92&s=ea1c44fd9d0a58ca826fa0e07d7fb039", "thumb": "https://ksr-ugc.imgix.net/avatars/1260133/PA03267123_edited-1.original.jpg?v=1314890729&w=40&h=40&fit=crop&auto=format&q=92&s=2b2eca2268403e59fbeddc7c90a1b8b1"}}, "created_at": 1342542530, "country": "US", "static_usd_rate": "1.0", "currency": "USD", "launched_at": 1342643055, "id": 1299851304, "spotlight": true, "slug": "kaidan-campaign-setting-pfrpg", "name": "Kaidan Campaign Setting (PFRPG)", "currency_trailing_code": true, "location": {"is_root": false, "id": 2389876, "country": "US", "displayable_name": "Dayton, OH", "state": "OH", "slug": "dayton-oh", "type": "Town", "name": "Dayton", "urls": {"api": {"nearby_projects": "https://api.kickstarter.com/v1/discover?signature=1440538710.2806e0d3b7f454b79cd7c6e41653f5ccbf634b4b&woe_id=2389876"}, "web": {"location": "https://www.kickstarter.com/locations/dayton-oh", "discover": "https://www.kickstarter.com/discover/places/dayton-oh"}}, "short_name": "Dayton, OH"}, "state_changed_at": 1347827057, "state": "successful", "usd_pledged": "9133.0", "backers_count": 206, "urls": {"web": {"project": "https://www.kickstarter.com/projects/937759598/kaidan-campaign-setting-pfrpg?ref=city", "rewards": "https://www.kickstarter.com/projects/937759598/kaidan-campaign-setting-pfrpg/rewards"}}, "disable_communication": false, "pledged": 9133.0, "photo": {"little": "https://ksr-ugc.imgix.net/projects/261296/photo-original.jpg?v=1397790234&w=200&h=150&fit=crop&auto=format&q=92&s=31c5b991dbe02b3dcb7a86484b95abb5", "1536x1152": "https://ksr-ugc.imgix.net/projects/261296/photo-original.jpg?v=1397790234&w=1536&h=1152&fit=crop&auto=format&q=92&s=4e4859286ec4d12cfb4b14562d47c859", "small": "https://ksr-ugc.imgix.net/projects/261296/photo-original.jpg?v=1397790234&w=160&h=120&fit=crop&auto=format&q=92&s=304c80875ef2a361552d5562a877bf02", "full": "https://ksr-ugc.imgix.net/projects/261296/photo-original.jpg?v=1397790234&w=560&h=420&fit=crop&auto=format&q=92&s=e70fdc534b16871e53511a7feefebe80", "ed": "https://ksr-ugc.imgix.net/projects/261296/photo-original.jpg?v=1397790234&w=338&h=250&fit=crop&auto=format&q=92&s=17eea08e515decf2dc9ec0bbfdd1f772", "thumb": "https://ksr-ugc.imgix.net/projects/261296/photo-original.jpg?v=1397790234&w=40&h=30&fit=crop&auto=format&q=92&s=e6c40ae0483b7d3e39b658453eefa7c3", "1024x768": "https://ksr-ugc.imgix.net/projects/261296/photo-original.jpg?v=1397790234&w=1024&h=768&fit=crop&auto=format&q=92&s=d613495922659175963722a08e89e9ed", "med": "https://ksr-ugc.imgix.net/projects/261296/photo-original.jpg?v=1397790234&w=266&h=200&fit=crop&auto=format&q=92&s=0867627595fcd91aa76dfb68a92151b8"}, "goal": 4000.0, "blurb": "A Japanese horror dark fantasy campaign setting for the Pathfinder Roleplaying Game.", "deadline": 1347827055, "category": {"id": 12, "name": "Games", "urls": {"web": {"discover": "http://www.kickstarter.com/discover/categories/games"}}, "slug": "games", "position": 9}, "profile": {"feature_image_attributes": {"image_urls": {"default": "https://ksr-ugc.imgix.net/projects/261296/photo-original.jpg?v=1397790234&w=1536&h=1152&fit=crop&auto=format&q=92&s=4e4859286ec4d12cfb4b14562d47c859", "baseball_card": "https://ksr-ugc.imgix.net/projects/261296/photo-original.jpg?v=1397790234&w=1536&h=1152&fit=crop&auto=format&q=92&s=4e4859286ec4d12cfb4b14562d47c859"}}, "state_changed_at": 1425915815, "state": "inactive", "show_feature_image": false, "text_color": null, "id": 267355, "link_text": null, "background_color": null, "blurb": null, "should_show_feature_image": true, "background_image_opacity": 0.8, "link_background_color": null, "name": null, "link_text_color": null, "link_url": null, "project_id": 267355}, "currency_symbol": "$"}, {"creator": {"urls": {"api": {"user": "https://api.kickstarter.com/v1/users/1560940280?signature=1440552068.5541935436e317edf6a1a34c1524e75d5645a5f1"}, "web": {"user": "https://www.kickstarter.com/profile/1560940280"}}, "id": 1560940280, "name": "Brian Retterer", "avatar": {"small": "https://ksr-ugc.imgix.net/avatars/1786422/smallLogo.original.png?v=1344886226&w=80&h=80&fit=crop&auto=format&q=92&s=79e950b3884fdfa84b4fb32f9b485a03", "medium": "https://ksr-ugc.imgix.net/avatars/1786422/smallLogo.original.png?v=1344886226&w=160&h=160&fit=crop&auto=format&q=92&s=80385b878a9930dd84aac87c0fd87678", "thumb": "https://ksr-ugc.imgix.net/avatars/1786422/smallLogo.original.png?v=1344886226&w=40&h=40&fit=crop&auto=format&q=92&s=77470b03f23a950bc9a7df15640e03e4"}}, "created_at": 1405961658, "country": "US", "static_usd_rate": "1.0", "currency": "USD", "launched_at": 1409931807, "id": 621336991, "spotlight": true, "slug": "laravel-elephpant", "name": "Laravel ElePHPant", "currency_trailing_code": true, "location": {"is_root": false, "id": 2389876, "country": "US", "displayable_name": "Dayton, OH", "state": "OH", "slug": "dayton-oh", "type": "Town", "name": "Dayton", "urls": {"api": {"nearby_projects": "https://api.kickstarter.com/v1/discover?signature=1440538710.2806e0d3b7f454b79cd7c6e41653f5ccbf634b4b&woe_id=2389876"}, "web": {"location": "https://www.kickstarter.com/locations/dayton-oh", "discover": "https://www.kickstarter.com/discover/places/dayton-oh"}}, "short_name": "Dayton, OH"}, "state_changed_at": 1413819808, "state": "successful", "usd_pledged": "16341.0", "backers_count": 355, "urls": {"web": {"project": "https://www.kickstarter.com/projects/1560940280/laravel-elephpant?ref=city", "rewards": "https://www.kickstarter.com/projects/1560940280/laravel-elephpant/rewards"}}, "disable_communication": false, "pledged": 16341.0, "photo": {"little": "https://ksr-ugc.imgix.net/projects/1183019/photo-original.jpg?v=1409939916&w=200&h=150&fit=crop&auto=format&q=92&s=e262a52b8f718fd448b84834503b1037", "1536x1152": "https://ksr-ugc.imgix.net/projects/1183019/photo-original.jpg?v=1409939916&w=1536&h=1152&fit=crop&auto=format&q=92&s=cfa8022c6a008984b9320c3ee4a0cea7", "small": "https://ksr-ugc.imgix.net/projects/1183019/photo-original.jpg?v=1409939916&w=160&h=120&fit=crop&auto=format&q=92&s=0c262e56ca38daffcb76796034e0c32e", "full": "https://ksr-ugc.imgix.net/projects/1183019/photo-original.jpg?v=1409939916&w=560&h=420&fit=crop&auto=format&q=92&s=48aaf8f75498419b8104e1ee3a74fce2", "ed": "https://ksr-ugc.imgix.net/projects/1183019/photo-original.jpg?v=1409939916&w=338&h=250&fit=crop&auto=format&q=92&s=8e7429d636853209a8a7633da4363f16", "thumb": "https://ksr-ugc.imgix.net/projects/1183019/photo-original.jpg?v=1409939916&w=40&h=30&fit=crop&auto=format&q=92&s=2ef32bcf9042b054469d501ffd458b82", "1024x768": "https://ksr-ugc.imgix.net/projects/1183019/photo-original.jpg?v=1409939916&w=1024&h=768&fit=crop&auto=format&q=92&s=402237008abf59ccd7edbdbc59a6291a", "med": "https://ksr-ugc.imgix.net/projects/1183019/photo-original.jpg?v=1409939916&w=266&h=200&fit=crop&auto=format&q=92&s=0b08ae10064dc7481509158eb6e49720"}, "goal": 15000.0, "blurb": "Support the Laravel project and show that you love PHP with the Laravel ElePHPant.  Add Liona to your collection!", "deadline": 1413819807, "category": {"id": 16, "name": "Technology", "urls": {"web": {"discover": "http://www.kickstarter.com/discover/categories/technology"}}, "slug": "technology", "position": 14}, "profile": {"feature_image_attributes": {"image_urls": {"default": "https://ksr-ugc.imgix.net/projects/1183019/photo-original.jpg?v=1409939916&w=1536&h=1152&fit=crop&auto=format&q=92&s=cfa8022c6a008984b9320c3ee4a0cea7", "baseball_card": "https://ksr-ugc.imgix.net/projects/1183019/photo-original.jpg?v=1409939916&w=1536&h=1152&fit=crop&auto=format&q=92&s=cfa8022c6a008984b9320c3ee4a0cea7"}}, "state_changed_at": 1425915867, "state": "inactive", "show_feature_image": false, "text_color": null, "id": 1210286, "link_text": null, "background_color": null, "blurb": null, "should_show_feature_image": true, "background_image_opacity": 0.8, "link_background_color": null, "name": null, "link_text_color": null, "link_url": null, "project_id": 1210286}, "currency_symbol": "$"}, {"creator": {"urls": {"api": {"user": "https://api.kickstarter.com/v1/users/1482231418?signature=1440552068.4799feec27accafe4c3ad06aa92d3436dab2ca12"}, "web": {"user": "https://www.kickstarter.com/profile/stevensaus"}}, "id": 1482231418, "name": "Steven Saus", "avatar": {"small": "https://ksr-ugc.imgix.net/avatars/2720113/white_bg_pen.original.png?v=1401483638&w=80&h=80&fit=crop&auto=format&q=92&s=08aa6184fd1384b49a03a4804fc68865", "medium": "https://ksr-ugc.imgix.net/avatars/2720113/white_bg_pen.original.png?v=1401483638&w=160&h=160&fit=crop&auto=format&q=92&s=748246fca0bed83555e14e700dd82ddb", "thumb": "https://ksr-ugc.imgix.net/avatars/2720113/white_bg_pen.original.png?v=1401483638&w=40&h=40&fit=crop&auto=format&q=92&s=508da7a4d551295fc023af4e33569662"}, "slug": "stevensaus"}, "created_at": 1385727506, "country": "US", "static_usd_rate": "1.0", "currency": "USD", "launched_at": 1386633645, "id": 1976041360, "spotlight": true, "slug": "steampunk-world-a-multicultural-steampunk-fiction", "name": "Steampunk World: A multicultural steampunk fiction anthology", "currency_trailing_code": true, "location": {"is_root": false, "id": 2389876, "country": "US", "displayable_name": "Dayton, OH", "state": "OH", "slug": "dayton-oh", "type": "Town", "name": "Dayton", "urls": {"api": {"nearby_projects": "https://api.kickstarter.com/v1/discover?signature=1440538710.2806e0d3b7f454b79cd7c6e41653f5ccbf634b4b&woe_id=2389876"}, "web": {"location": "https://www.kickstarter.com/locations/dayton-oh", "discover": "https://www.kickstarter.com/discover/places/dayton-oh"}}, "short_name": "Dayton, OH"}, "state_changed_at": 1389236416, "state": "successful", "usd_pledged": "14610.22", "backers_count": 701, "urls": {"web": {"project": "https://www.kickstarter.com/projects/stevensaus/steampunk-world-a-multicultural-steampunk-fiction?ref=city", "rewards": "https://www.kickstarter.com/projects/stevensaus/steampunk-world-a-multicultural-steampunk-fiction/rewards"}}, "disable_communication": false, "pledged": 14610.22, "photo": {"little": "https://ksr-ugc.imgix.net/projects/778400/photo-original.png?v=1397858185&w=200&h=150&fit=crop&auto=format&q=92&s=1248e250ccf5df81f0deab854c1ee84c", "1536x1152": "https://ksr-ugc.imgix.net/projects/778400/photo-original.png?v=1397858185&w=1536&h=1152&fit=crop&auto=format&q=92&s=6be35d987a857078b696bd5085c00a56", "small": "https://ksr-ugc.imgix.net/projects/778400/photo-original.png?v=1397858185&w=160&h=120&fit=crop&auto=format&q=92&s=c48b6c671d35cb973ea4025684af9baf", "full": "https://ksr-ugc.imgix.net/projects/778400/photo-original.png?v=1397858185&w=560&h=420&fit=crop&auto=format&q=92&s=5a79f40593b5537614c931f8b504d508", "ed": "https://ksr-ugc.imgix.net/projects/778400/photo-original.png?v=1397858185&w=338&h=250&fit=crop&auto=format&q=92&s=9c8db3c3399e7a17a1c4152aa2b83af3", "thumb": "https://ksr-ugc.imgix.net/projects/778400/photo-original.png?v=1397858185&w=40&h=30&fit=crop&auto=format&q=92&s=96dcb7d3aaa912e9dc79b4c4f6d8ecd2", "1024x768": "https://ksr-ugc.imgix.net/projects/778400/photo-original.png?v=1397858185&w=1024&h=768&fit=crop&auto=format&q=92&s=2983bc84273def279da3bb073750932b", "med": "https://ksr-ugc.imgix.net/projects/778400/photo-original.png?v=1397858185&w=266&h=200&fit=crop&auto=format&q=92&s=2a79eab0c14e8dbc2c16aabd1e130f33"}, "goal": 6000.0, "blurb": "A diverse steampunk anthology from your favorite award-winning authors, including Jay Lake, Nisi Shawl, Ken Liu, and Lucy A. Snyder.", "deadline": 1389236400, "category": {"id": 47, "slug": "publishing/fiction", "position": 6, "parent_id": 18, "name": "Fiction", "urls": {"web": {"discover": "http://www.kickstarter.com/discover/categories/publishing/fiction"}}}, "profile": {"feature_image_attributes": {"image_urls": {"default": "https://ksr-ugc.imgix.net/projects/778400/photo-original.png?v=1397858185&w=1536&h=1152&fit=crop&auto=format&q=92&s=6be35d987a857078b696bd5085c00a56", "baseball_card": "https://ksr-ugc.imgix.net/projects/778400/photo-original.png?v=1397858185&w=1536&h=1152&fit=crop&auto=format&q=92&s=6be35d987a857078b696bd5085c00a56"}}, "state_changed_at": 1425915843, "state": "inactive", "show_feature_image": false, "text_color": null, "id": 796351, "link_text": null, "background_color": null, "blurb": null, "should_show_feature_image": true, "background_image_opacity": 0.8, "link_background_color": null, "name": null, "link_text_color": null, "link_url": null, "project_id": 796351}, "currency_symbol": "$"}]
+[
+  {
+    "disable_communication": false, 
+    "creator": {
+      "urls": {
+        "web": {
+          "user": "https://www.kickstarter.com/profile/1262994287"
+        }, 
+        "api": {
+          "user": "https://api.kickstarter.com/v1/users/1262994287?signature=1441236378.4995da0962321f02da8b10286b28af70e8e70238"
+        }
+      }, 
+      "avatar": {
+        "small": "https://ksr-ugc.imgix.net/avatars/17782713/Slide7.original.JPG?v=1439844054&w=80&h=80&fit=crop&auto=format&q=92&s=9c8a11ec472667c4f281ac7c65b8513a", 
+        "medium": "https://ksr-ugc.imgix.net/avatars/17782713/Slide7.original.JPG?v=1439844054&w=160&h=160&fit=crop&auto=format&q=92&s=016ab3c95df92fa91661e48cbcb0feaf", 
+        "thumb": "https://ksr-ugc.imgix.net/avatars/17782713/Slide7.original.JPG?v=1439844054&w=40&h=40&fit=crop&auto=format&q=92&s=d16c4ebbf5d5b16c0d7b441cb9749a3c"
+      }, 
+      "name": "Kelcey Coe", 
+      "id": 1262994287
+    }, 
+    "photo": {
+      "med": "https://ksr-ugc.imgix.net/projects/2033459/photo-original.jpg?v=1439841447&w=266&h=200&fit=crop&auto=format&q=92&s=924f452381395d6c7724154a38b7c041", 
+      "little": "https://ksr-ugc.imgix.net/projects/2033459/photo-original.jpg?v=1439841447&w=200&h=150&fit=crop&auto=format&q=92&s=2a0271bff66cc3a5f6455febea9c436d", 
+      "full": "https://ksr-ugc.imgix.net/projects/2033459/photo-original.jpg?v=1439841447&w=560&h=420&fit=crop&auto=format&q=92&s=ac9c2166937c52593d98b3742acb247e", 
+      "thumb": "https://ksr-ugc.imgix.net/projects/2033459/photo-original.jpg?v=1439841447&w=40&h=30&fit=crop&auto=format&q=92&s=6026ae216f2bcd81c81291c4f2eaa608", 
+      "ed": "https://ksr-ugc.imgix.net/projects/2033459/photo-original.jpg?v=1439841447&w=338&h=250&fit=crop&auto=format&q=92&s=2f1620de0a4c1f78a41026351f71ce21", 
+      "1024x768": "https://ksr-ugc.imgix.net/projects/2033459/photo-original.jpg?v=1439841447&w=1024&h=768&fit=crop&auto=format&q=92&s=3a117e5340fec57fd12a4e1aef6acd14", 
+      "small": "https://ksr-ugc.imgix.net/projects/2033459/photo-original.jpg?v=1439841447&w=160&h=120&fit=crop&auto=format&q=92&s=088ff3f95b0061827d017fab987a3880", 
+      "1536x1152": "https://ksr-ugc.imgix.net/projects/2033459/photo-original.jpg?v=1439841447&w=1536&h=1152&fit=crop&auto=format&q=92&s=af764230bf1a74fc8fa2a6469728d573"
+    }, 
+    "currency": "USD", 
+    "deadline": 1445029209, 
+    "currency_trailing_code": true, 
+    "id": 480176322, 
+    "state_changed_at": 1439845209, 
+    "category": {
+      "name": "Horror", 
+      "id": 297, 
+      "parent_id": 11, 
+      "urls": {
+        "web": {
+          "discover": "http://www.kickstarter.com/discover/categories/film%20&%20video/horror"
+        }
+      }, 
+      "position": 10, 
+      "slug": "film & video/horror"
+    }, 
+    "goal": 50000.0, 
+    "pledged": 0.0, 
+    "source": "kickstarter", 
+    "state": "live", 
+    "static_usd_rate": "1.0", 
+    "location": {
+      "name": "Dayton", 
+      "short_name": "Dayton, OH", 
+      "country": "US", 
+      "slug": "dayton-oh", 
+      "is_root": false, 
+      "state": "OH", 
+      "urls": {
+        "web": {
+          "discover": "https://www.kickstarter.com/discover/places/dayton-oh", 
+          "location": "https://www.kickstarter.com/locations/dayton-oh"
+        }, 
+        "api": {
+          "nearby_projects": "https://api.kickstarter.com/v1/discover?signature=1441233757.1ff32df7809f431dbb0f6de9ddd0ab37af332c9d&woe_id=2389876"
+        }
+      }, 
+      "type": "Town", 
+      "displayable_name": "Dayton, OH", 
+      "id": 2389876
+    }, 
+    "launched_at": 1439845209, 
+    "blurb": "Models fight to the death to prove they're the best.", 
+    "profile": {
+      "link_text_color": null, 
+      "feature_image_attributes": {
+        "image_urls": {
+          "default": "https://ksr-ugc.imgix.net/projects/2033459/photo-original.jpg?v=1439841447&w=1536&h=1152&fit=crop&auto=format&q=92&s=af764230bf1a74fc8fa2a6469728d573", 
+          "baseball_card": "https://ksr-ugc.imgix.net/projects/2033459/photo-original.jpg?v=1439841447&w=1536&h=1152&fit=crop&auto=format&q=92&s=af764230bf1a74fc8fa2a6469728d573"
+        }
+      }, 
+      "name": null, 
+      "link_url": null, 
+      "link_text": null, 
+      "text_color": null, 
+      "show_feature_image": false, 
+      "state": "inactive", 
+      "link_background_color": null, 
+      "background_image_opacity": 0.8, 
+      "state_changed_at": 1439841403, 
+      "project_id": 2073033, 
+      "background_color": null, 
+      "id": 2073033, 
+      "blurb": null, 
+      "should_show_feature_image": true
+    }, 
+    "urls": {
+      "web": {
+        "project": "https://www.kickstarter.com/projects/1262994287/model-combat?ref=city", 
+        "rewards": "https://www.kickstarter.com/projects/1262994287/model-combat/rewards"
+      }
+    }, 
+    "usd_pledged": "0.0", 
+    "slug": "model-combat", 
+    "name": "Model Combat", 
+    "country": "US", 
+    "created_at": 1439841403, 
+    "backers_count": 0, 
+    "currency_symbol": "$", 
+    "spotlight": false
+  }, 
+  {
+    "disable_communication": false, 
+    "creator": {
+      "urls": {
+        "web": {
+          "user": "https://www.kickstarter.com/profile/1564014113"
+        }, 
+        "api": {
+          "user": "https://api.kickstarter.com/v1/users/1564014113?signature=1441236378.0da667381554967e2f6441d525b67268e5581e3e"
+        }
+      }, 
+      "avatar": {
+        "small": "https://ksr-ugc.imgix.net/avatars/6733373/cosmologo3.original.jpg?v=1439184111&w=80&h=80&fit=crop&auto=format&q=92&s=abe88813a8b98a5fb46e0b1400ec22e3", 
+        "medium": "https://ksr-ugc.imgix.net/avatars/6733373/cosmologo3.original.jpg?v=1439184111&w=160&h=160&fit=crop&auto=format&q=92&s=82596a3ed9f81b911f6ad9718f31349e", 
+        "thumb": "https://ksr-ugc.imgix.net/avatars/6733373/cosmologo3.original.jpg?v=1439184111&w=40&h=40&fit=crop&auto=format&q=92&s=d50d7a65277c049f44224ecadaff4a9c"
+      }, 
+      "name": "Timothy S. Purvis", 
+      "id": 1564014113
+    }, 
+    "photo": {
+      "med": "https://ksr-ugc.imgix.net/projects/2020213/photo-original.jpg?v=1439181806&w=266&h=200&fit=crop&auto=format&q=92&s=bd75fdc8153aea28c4a64dfc46087940", 
+      "little": "https://ksr-ugc.imgix.net/projects/2020213/photo-original.jpg?v=1439181806&w=200&h=150&fit=crop&auto=format&q=92&s=84885dd2b557d1c26ddd18eb9b034ef6", 
+      "full": "https://ksr-ugc.imgix.net/projects/2020213/photo-original.jpg?v=1439181806&w=560&h=420&fit=crop&auto=format&q=92&s=871451f5cb22539b9d8c0d35b16f8132", 
+      "thumb": "https://ksr-ugc.imgix.net/projects/2020213/photo-original.jpg?v=1439181806&w=40&h=30&fit=crop&auto=format&q=92&s=3ded87313281d4fa829453da4ea8c606", 
+      "ed": "https://ksr-ugc.imgix.net/projects/2020213/photo-original.jpg?v=1439181806&w=338&h=250&fit=crop&auto=format&q=92&s=3a4df52107b43596f95879d4ae83a424", 
+      "1024x768": "https://ksr-ugc.imgix.net/projects/2020213/photo-original.jpg?v=1439181806&w=1024&h=768&fit=crop&auto=format&q=92&s=5fe809a73ff44a457b99afb4c181afdd", 
+      "small": "https://ksr-ugc.imgix.net/projects/2020213/photo-original.jpg?v=1439181806&w=160&h=120&fit=crop&auto=format&q=92&s=ed0237f6ee946a0d715b7fe9fa439522", 
+      "1536x1152": "https://ksr-ugc.imgix.net/projects/2020213/photo-original.jpg?v=1439181806&w=1536&h=1152&fit=crop&auto=format&q=92&s=1d9264111edad75309be6d733de38ef0"
+    }, 
+    "currency": "USD", 
+    "deadline": 1441824988, 
+    "currency_trailing_code": true, 
+    "id": 69121284, 
+    "state_changed_at": 1439232988, 
+    "category": {
+      "name": "Video Games", 
+      "id": 35, 
+      "parent_id": 12, 
+      "urls": {
+        "web": {
+          "discover": "http://www.kickstarter.com/discover/categories/games/video%20games"
+        }
+      }, 
+      "position": 7, 
+      "slug": "games/video games"
+    }, 
+    "goal": 8000.0, 
+    "pledged": 5.0, 
+    "source": "kickstarter", 
+    "state": "live", 
+    "static_usd_rate": "1.0", 
+    "location": {
+      "name": "Dayton", 
+      "short_name": "Dayton, OH", 
+      "country": "US", 
+      "slug": "dayton-oh", 
+      "is_root": false, 
+      "state": "OH", 
+      "urls": {
+        "web": {
+          "discover": "https://www.kickstarter.com/discover/places/dayton-oh", 
+          "location": "https://www.kickstarter.com/locations/dayton-oh"
+        }, 
+        "api": {
+          "nearby_projects": "https://api.kickstarter.com/v1/discover?signature=1441233757.1ff32df7809f431dbb0f6de9ddd0ab37af332c9d&woe_id=2389876"
+        }
+      }, 
+      "type": "Town", 
+      "displayable_name": "Dayton, OH", 
+      "id": 2389876
+    }, 
+    "launched_at": 1439232988, 
+    "blurb": "An RPG game where every decision you make determines the fate of the world.", 
+    "profile": {
+      "link_text_color": null, 
+      "feature_image_attributes": {
+        "image_urls": {
+          "default": "https://ksr-ugc.imgix.net/projects/2020213/photo-original.jpg?v=1439181806&w=1536&h=1152&fit=crop&auto=format&q=92&s=1d9264111edad75309be6d733de38ef0", 
+          "baseball_card": "https://ksr-ugc.imgix.net/projects/2020213/photo-original.jpg?v=1439181806&w=1536&h=1152&fit=crop&auto=format&q=92&s=1d9264111edad75309be6d733de38ef0"
+        }
+      }, 
+      "name": null, 
+      "link_url": null, 
+      "link_text": null, 
+      "text_color": null, 
+      "show_feature_image": false, 
+      "state": "inactive", 
+      "link_background_color": null, 
+      "background_image_opacity": 0.8, 
+      "state_changed_at": 1439181569, 
+      "project_id": 2059787, 
+      "background_color": null, 
+      "id": 2059787, 
+      "blurb": null, 
+      "should_show_feature_image": true
+    }, 
+    "urls": {
+      "web": {
+        "project": "https://www.kickstarter.com/projects/1564014113/the-invasion-udder-contempt?ref=city", 
+        "rewards": "https://www.kickstarter.com/projects/1564014113/the-invasion-udder-contempt/rewards"
+      }
+    }, 
+    "usd_pledged": "5.0", 
+    "slug": "the-invasion-udder-contempt", 
+    "name": "The Invasion: Udder Contempt", 
+    "country": "US", 
+    "created_at": 1439181569, 
+    "backers_count": 1, 
+    "currency_symbol": "$", 
+    "spotlight": false
+  }, 
+  {
+    "disable_communication": false, 
+    "creator": {
+      "urls": {
+        "web": {
+          "user": "https://www.kickstarter.com/profile/iamwoman"
+        }, 
+        "api": {
+          "user": "https://api.kickstarter.com/v1/users/782277432?signature=1441236378.37543738c90566a53ec2dd3b4158a528d0e44f6f"
+        }
+      }, 
+      "slug": "iamwoman", 
+      "avatar": {
+        "small": "https://ksr-ugc.imgix.net/avatars/13044553/Jessica_Brown.original.jpg?v=1435973855&w=80&h=80&fit=crop&auto=format&q=92&s=64b0e387b97cd71449be2067bf7c9863", 
+        "medium": "https://ksr-ugc.imgix.net/avatars/13044553/Jessica_Brown.original.jpg?v=1435973855&w=160&h=160&fit=crop&auto=format&q=92&s=586ea568687c2941c2be4f18710a933e", 
+        "thumb": "https://ksr-ugc.imgix.net/avatars/13044553/Jessica_Brown.original.jpg?v=1435973855&w=40&h=40&fit=crop&auto=format&q=92&s=21f771a3f0f6aa297db5a7c7df720826"
+      }, 
+      "name": "Jessica Brown", 
+      "id": 782277432
+    }, 
+    "photo": {
+      "med": "https://ksr-ugc.imgix.net/projects/1956586/photo-original.png?v=1436222174&w=266&h=200&fit=crop&auto=format&q=92&s=552ad6a67236deb79204678b402e9b38", 
+      "little": "https://ksr-ugc.imgix.net/projects/1956586/photo-original.png?v=1436222174&w=200&h=150&fit=crop&auto=format&q=92&s=9f3c85be77fc86d3322f4d771832d65e", 
+      "full": "https://ksr-ugc.imgix.net/projects/1956586/photo-original.png?v=1436222174&w=560&h=420&fit=crop&auto=format&q=92&s=2b67c16dea70574739e7994b6b6f4eef", 
+      "thumb": "https://ksr-ugc.imgix.net/projects/1956586/photo-original.png?v=1436222174&w=40&h=30&fit=crop&auto=format&q=92&s=bb7becc2e1519849e6155e49f1786b0c", 
+      "ed": "https://ksr-ugc.imgix.net/projects/1956586/photo-original.png?v=1436222174&w=338&h=250&fit=crop&auto=format&q=92&s=23c467a0fdc8c4b82f6448e347ff81f6", 
+      "1024x768": "https://ksr-ugc.imgix.net/projects/1956586/photo-original.png?v=1436222174&w=1024&h=768&fit=crop&auto=format&q=92&s=8725e3b23377feaf21a449bd503dac28", 
+      "small": "https://ksr-ugc.imgix.net/projects/1956586/photo-original.png?v=1436222174&w=160&h=120&fit=crop&auto=format&q=92&s=0bccbdea403b1e00e1a5b8bed935f732", 
+      "1536x1152": "https://ksr-ugc.imgix.net/projects/1956586/photo-original.png?v=1436222174&w=1536&h=1152&fit=crop&auto=format&q=92&s=b2c1e82d09be30be4c512697295a8c14"
+    }, 
+    "currency": "USD", 
+    "deadline": 1441159726, 
+    "currency_trailing_code": true, 
+    "id": 1539129899, 
+    "state_changed_at": 1435975726, 
+    "category": {
+      "name": "Nonfiction", 
+      "id": 48, 
+      "parent_id": 18, 
+      "urls": {
+        "web": {
+          "discover": "http://www.kickstarter.com/discover/categories/publishing/nonfiction"
+        }
+      }, 
+      "position": 8, 
+      "slug": "publishing/nonfiction"
+    }, 
+    "goal": 10000.0, 
+    "pledged": 0.0, 
+    "source": "kickstarter", 
+    "state": "live", 
+    "static_usd_rate": "1.0", 
+    "location": {
+      "name": "Dayton", 
+      "short_name": "Dayton, OH", 
+      "country": "US", 
+      "slug": "dayton-oh", 
+      "is_root": false, 
+      "state": "OH", 
+      "urls": {
+        "web": {
+          "discover": "https://www.kickstarter.com/discover/places/dayton-oh", 
+          "location": "https://www.kickstarter.com/locations/dayton-oh"
+        }, 
+        "api": {
+          "nearby_projects": "https://api.kickstarter.com/v1/discover?signature=1441233757.1ff32df7809f431dbb0f6de9ddd0ab37af332c9d&woe_id=2389876"
+        }
+      }, 
+      "type": "Town", 
+      "displayable_name": "Dayton, OH", 
+      "id": 2389876
+    }, 
+    "launched_at": 1435975726, 
+    "blurb": "I AM WOMAN! - Being a Transwoman in 2015 is a memoir written to assist in the communication and language of the LGBT community.", 
+    "profile": {
+      "link_text_color": null, 
+      "feature_image_attributes": {
+        "image_urls": {
+          "default": "https://ksr-ugc.imgix.net/projects/1956586/photo-original.png?v=1436222174&w=1536&h=1152&fit=crop&auto=format&q=92&s=b2c1e82d09be30be4c512697295a8c14", 
+          "baseball_card": "https://ksr-ugc.imgix.net/projects/1956586/photo-original.png?v=1436222174&w=1536&h=1152&fit=crop&auto=format&q=92&s=b2c1e82d09be30be4c512697295a8c14"
+        }
+      }, 
+      "name": null, 
+      "link_url": null, 
+      "link_text": null, 
+      "text_color": null, 
+      "show_feature_image": false, 
+      "state": "inactive", 
+      "link_background_color": null, 
+      "background_image_opacity": 0.8, 
+      "state_changed_at": 1435973915, 
+      "project_id": 1996160, 
+      "background_color": null, 
+      "id": 1996160, 
+      "blurb": null, 
+      "should_show_feature_image": true
+    }, 
+    "urls": {
+      "web": {
+        "project": "https://www.kickstarter.com/projects/iamwoman/i-am-woman?ref=city", 
+        "rewards": "https://www.kickstarter.com/projects/iamwoman/i-am-woman/rewards"
+      }
+    }, 
+    "usd_pledged": "0.0", 
+    "slug": "i-am-woman", 
+    "name": "I AM WOMAN!", 
+    "country": "US", 
+    "created_at": 1435973915, 
+    "backers_count": 0, 
+    "currency_symbol": "$", 
+    "spotlight": false
+  }, 
+  {
+    "disable_communication": false, 
+    "creator": {
+      "urls": {
+        "web": {
+          "user": "https://www.kickstarter.com/profile/267737291"
+        }, 
+        "api": {
+          "user": "https://api.kickstarter.com/v1/users/267737291?signature=1441236378.833a27681201fbda3dae1238f02210c00b0aa5ef"
+        }
+      }, 
+      "avatar": {
+        "small": "https://ksr-ugc.imgix.net/avatars/17872499/fb_profile_picture.original.jpeg?v=1440526381&w=80&h=80&fit=crop&auto=format&q=92&s=4c53e3d3ac0ff57d086c04c445358250", 
+        "medium": "https://ksr-ugc.imgix.net/avatars/17872499/fb_profile_picture.original.jpeg?v=1440526381&w=160&h=160&fit=crop&auto=format&q=92&s=38707062df26fe1d416d5820c51edde1", 
+        "thumb": "https://ksr-ugc.imgix.net/avatars/17872499/fb_profile_picture.original.jpeg?v=1440526381&w=40&h=40&fit=crop&auto=format&q=92&s=84b586b7b23f940ef5009a6f069818a8"
+      }, 
+      "name": "Jennifer Stogsdill", 
+      "id": 267737291
+    }, 
+    "photo": {
+      "med": "https://ksr-ugc.imgix.net/projects/2046858/photo-original.jpg?v=1440527351&w=266&h=200&fit=crop&auto=format&q=92&s=7db3fe071f548c771953c8245908e081", 
+      "little": "https://ksr-ugc.imgix.net/projects/2046858/photo-original.jpg?v=1440527351&w=200&h=150&fit=crop&auto=format&q=92&s=80cd6923fbe43140867f97772371fd6b", 
+      "full": "https://ksr-ugc.imgix.net/projects/2046858/photo-original.jpg?v=1440527351&w=560&h=420&fit=crop&auto=format&q=92&s=c11eafa2f7581e0e32ac171b8a472814", 
+      "thumb": "https://ksr-ugc.imgix.net/projects/2046858/photo-original.jpg?v=1440527351&w=40&h=30&fit=crop&auto=format&q=92&s=5b6798adf0388287cc1418ee02395c07", 
+      "ed": "https://ksr-ugc.imgix.net/projects/2046858/photo-original.jpg?v=1440527351&w=338&h=250&fit=crop&auto=format&q=92&s=d18bc5a49fa193531c812e3246b9a04d", 
+      "1024x768": "https://ksr-ugc.imgix.net/projects/2046858/photo-original.jpg?v=1440527351&w=1024&h=768&fit=crop&auto=format&q=92&s=9826fd441611aa3c04b13e7eb1ec3504", 
+      "small": "https://ksr-ugc.imgix.net/projects/2046858/photo-original.jpg?v=1440527351&w=160&h=120&fit=crop&auto=format&q=92&s=9003ed178f691b9f26eb50b55dce9451", 
+      "1536x1152": "https://ksr-ugc.imgix.net/projects/2046858/photo-original.jpg?v=1440527351&w=1536&h=1152&fit=crop&auto=format&q=92&s=4ff57344e2c85f1d3cfc223c27e6ef7e"
+    }, 
+    "currency": "USD", 
+    "deadline": 1445711764, 
+    "currency_trailing_code": true, 
+    "id": 611613881, 
+    "state_changed_at": 1440527764, 
+    "category": {
+      "name": "Nonfiction", 
+      "id": 48, 
+      "parent_id": 18, 
+      "urls": {
+        "web": {
+          "discover": "http://www.kickstarter.com/discover/categories/publishing/nonfiction"
+        }
+      }, 
+      "position": 8, 
+      "slug": "publishing/nonfiction"
+    }, 
+    "goal": 10000.0, 
+    "pledged": 40.0, 
+    "source": "kickstarter", 
+    "state": "live", 
+    "static_usd_rate": "1.0", 
+    "location": {
+      "name": "Dayton", 
+      "short_name": "Dayton, OH", 
+      "country": "US", 
+      "slug": "dayton-oh", 
+      "is_root": false, 
+      "state": "OH", 
+      "urls": {
+        "web": {
+          "discover": "https://www.kickstarter.com/discover/places/dayton-oh", 
+          "location": "https://www.kickstarter.com/locations/dayton-oh"
+        }, 
+        "api": {
+          "nearby_projects": "https://api.kickstarter.com/v1/discover?signature=1441233757.1ff32df7809f431dbb0f6de9ddd0ab37af332c9d&woe_id=2389876"
+        }
+      }, 
+      "type": "Town", 
+      "displayable_name": "Dayton, OH", 
+      "id": 2389876
+    }, 
+    "launched_at": 1440527764, 
+    "blurb": "Food is a main part of our culture. From holidays to weddings, birthdays to anniversaries, movies to games.", 
+    "profile": {
+      "link_text_color": null, 
+      "feature_image_attributes": {
+        "image_urls": {
+          "default": "https://ksr-ugc.imgix.net/projects/2046858/photo-original.jpg?v=1440527351&w=1536&h=1152&fit=crop&auto=format&q=92&s=4ff57344e2c85f1d3cfc223c27e6ef7e", 
+          "baseball_card": "https://ksr-ugc.imgix.net/projects/2046858/photo-original.jpg?v=1440527351&w=1536&h=1152&fit=crop&auto=format&q=92&s=4ff57344e2c85f1d3cfc223c27e6ef7e"
+        }
+      }, 
+      "name": null, 
+      "link_url": null, 
+      "link_text": null, 
+      "text_color": null, 
+      "show_feature_image": false, 
+      "state": "inactive", 
+      "link_background_color": null, 
+      "background_image_opacity": 0.8, 
+      "state_changed_at": 1440524932, 
+      "project_id": 2086432, 
+      "background_color": null, 
+      "id": 2086432, 
+      "blurb": null, 
+      "should_show_feature_image": true
+    }, 
+    "urls": {
+      "web": {
+        "project": "https://www.kickstarter.com/projects/267737291/gamer-grub-a-geeks-guide-to-nerdy-fare?ref=city", 
+        "rewards": "https://www.kickstarter.com/projects/267737291/gamer-grub-a-geeks-guide-to-nerdy-fare/rewards"
+      }
+    }, 
+    "usd_pledged": "40.0", 
+    "slug": "gamer-grub-a-geeks-guide-to-nerdy-fare", 
+    "name": "Gamer Grub: A Geeks Guide to Nerdy Fare", 
+    "country": "US", 
+    "created_at": 1440524932, 
+    "backers_count": 2, 
+    "currency_symbol": "$", 
+    "spotlight": false
+  }, 
+  {
+    "disable_communication": false, 
+    "creator": {
+      "urls": {
+        "web": {
+          "user": "https://www.kickstarter.com/profile/704698048"
+        }, 
+        "api": {
+          "user": "https://api.kickstarter.com/v1/users/704698048?signature=1441236378.57843b269a05e864781f40b65289919f101aa76f"
+        }
+      }, 
+      "avatar": {
+        "small": "https://ksr-ugc.imgix.net/avatars/17355190/11182131_1637227376545161_3702414953208533314_n.original.jpg?v=1440648744&w=80&h=80&fit=crop&auto=format&q=92&s=623176d8806c278572a71e913aaf4ebd", 
+        "medium": "https://ksr-ugc.imgix.net/avatars/17355190/11182131_1637227376545161_3702414953208533314_n.original.jpg?v=1440648744&w=160&h=160&fit=crop&auto=format&q=92&s=30cb515dbc95806f274d21e4c3bc1082", 
+        "thumb": "https://ksr-ugc.imgix.net/avatars/17355190/11182131_1637227376545161_3702414953208533314_n.original.jpg?v=1440648744&w=40&h=40&fit=crop&auto=format&q=92&s=c55980bff7591eaa46fdec26f09e3724"
+      }, 
+      "name": "Musicians For Unity", 
+      "id": 704698048
+    }, 
+    "photo": {
+      "med": "https://ksr-ugc.imgix.net/projects/2042470/photo-original.jpg?v=1440294662&w=266&h=200&fit=crop&auto=format&q=92&s=6ff5ecf1b8abe8add497250920f85785", 
+      "little": "https://ksr-ugc.imgix.net/projects/2042470/photo-original.jpg?v=1440294662&w=200&h=150&fit=crop&auto=format&q=92&s=1db411ea9980dee4133a152bc06b3775", 
+      "full": "https://ksr-ugc.imgix.net/projects/2042470/photo-original.jpg?v=1440294662&w=560&h=420&fit=crop&auto=format&q=92&s=ec911e26fd2c22da2e60172758eee17a", 
+      "thumb": "https://ksr-ugc.imgix.net/projects/2042470/photo-original.jpg?v=1440294662&w=40&h=30&fit=crop&auto=format&q=92&s=77f81d6ecd767ce9ad7219ca26bd6879", 
+      "ed": "https://ksr-ugc.imgix.net/projects/2042470/photo-original.jpg?v=1440294662&w=338&h=250&fit=crop&auto=format&q=92&s=c8d6c24ffc5e814947f8af91764c9117", 
+      "1024x768": "https://ksr-ugc.imgix.net/projects/2042470/photo-original.jpg?v=1440294662&w=1024&h=768&fit=crop&auto=format&q=92&s=11914a04596ab930064ee6c88ba6b467", 
+      "small": "https://ksr-ugc.imgix.net/projects/2042470/photo-original.jpg?v=1440294662&w=160&h=120&fit=crop&auto=format&q=92&s=bc0b1c24bac61a80029f692fa7b0ffee", 
+      "1536x1152": "https://ksr-ugc.imgix.net/projects/2042470/photo-original.jpg?v=1440294662&w=1536&h=1152&fit=crop&auto=format&q=92&s=49434d7188632d2a27a46d795a6f1c4d"
+    }, 
+    "currency": "USD", 
+    "deadline": 1442289540, 
+    "currency_trailing_code": true, 
+    "id": 1715018242, 
+    "state_changed_at": 1440856561, 
+    "category": {
+      "position": 11, 
+      "slug": "music", 
+      "id": 14, 
+      "urls": {
+        "web": {
+          "discover": "http://www.kickstarter.com/discover/categories/music"
+        }
+      }, 
+      "name": "Music"
+    }, 
+    "goal": 500.0, 
+    "pledged": 90.0, 
+    "source": "kickstarter", 
+    "state": "live", 
+    "static_usd_rate": "1.0", 
+    "location": {
+      "name": "Dayton", 
+      "short_name": "Dayton, OH", 
+      "country": "US", 
+      "slug": "dayton-oh", 
+      "is_root": false, 
+      "state": "OH", 
+      "urls": {
+        "web": {
+          "discover": "https://www.kickstarter.com/discover/places/dayton-oh", 
+          "location": "https://www.kickstarter.com/locations/dayton-oh"
+        }, 
+        "api": {
+          "nearby_projects": "https://api.kickstarter.com/v1/discover?signature=1441233757.1ff32df7809f431dbb0f6de9ddd0ab37af332c9d&woe_id=2389876"
+        }
+      }, 
+      "type": "Town", 
+      "displayable_name": "Dayton, OH", 
+      "id": 2389876
+    }, 
+    "launched_at": 1440856561, 
+    "blurb": "BE A PART OF A DAYTON FIRST! HELP US  BRING OUR CITY TOGETHER IN SUPPORT OF GLSEN GREATER DAYTON TO HELP STOP BULLYING IN OUR SCHOOLS.", 
+    "profile": {
+      "link_text_color": null, 
+      "feature_image_attributes": {
+        "image_urls": {
+          "default": "https://ksr-ugc.imgix.net/projects/2042470/photo-original.jpg?v=1440294662&w=1536&h=1152&fit=crop&auto=format&q=92&s=49434d7188632d2a27a46d795a6f1c4d", 
+          "baseball_card": "https://ksr-ugc.imgix.net/projects/2042470/photo-original.jpg?v=1440294662&w=1536&h=1152&fit=crop&auto=format&q=92&s=49434d7188632d2a27a46d795a6f1c4d"
+        }
+      }, 
+      "name": null, 
+      "link_url": null, 
+      "link_text": null, 
+      "text_color": null, 
+      "show_feature_image": false, 
+      "state": "inactive", 
+      "link_background_color": null, 
+      "background_image_opacity": 0.8, 
+      "state_changed_at": 1440293288, 
+      "project_id": 2082044, 
+      "background_color": null, 
+      "id": 2082044, 
+      "blurb": null, 
+      "should_show_feature_image": true
+    }, 
+    "urls": {
+      "web": {
+        "project": "https://www.kickstarter.com/projects/704698048/gemfest-music-and-arts-festival-dayton-ohio-2015?ref=city", 
+        "rewards": "https://www.kickstarter.com/projects/704698048/gemfest-music-and-arts-festival-dayton-ohio-2015/rewards"
+      }
+    }, 
+    "usd_pledged": "90.0", 
+    "slug": "gemfest-music-and-arts-festival-dayton-ohio-2015", 
+    "name": "GemFest Music & Arts Festival Dayton Ohio 2015", 
+    "country": "US", 
+    "created_at": 1440293288, 
+    "backers_count": 5, 
+    "currency_symbol": "$", 
+    "spotlight": false
+  }
+]
